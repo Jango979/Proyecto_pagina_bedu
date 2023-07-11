@@ -58,23 +58,15 @@ span {
 
 .carousel__face:nth-child(2) {
     background-image: url("../Franquicia/lotr.jpeg");
-    transform: rotateY( 72deg) translateZ(430px);
+    transform: rotateY( 120deg) translateZ(430px);
 }
 
 .carousel__face:nth-child(3) {
     background-image: url("../Videojuegos/wotlk.jpg");
-    transform: rotateY( 144deg) translateZ(430px);
+    transform: rotateY( 240deg) translateZ(430px);
 }
 
-.carousel__face:nth-child(4) {
-    background-image: url("../Ciencia/7756.png");
-    transform: rotateY(216deg) translateZ(430px);
-}
 
-.carousel__face:nth-child(5) {
-    background-image: url("../JuegosDMesa/Carrusel.jpg");
-    transform: rotateY(288deg) translateZ(430px);
-}
 
 /*.carousel__face:nth-child(6) {
     background-image: url("https://images.pexels.com/photos/1834400/pexels-photo-1834400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");

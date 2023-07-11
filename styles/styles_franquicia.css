@@ -1,16 +1,25 @@
 ﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: #808080;
 }
 
-img {
-    border-radius: 8px;
-    max-height: 300px;
-    max-width: 600px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.navbar-brand {
+    color: #ffffff;
 }
+.navbar {
+    background-color: #333;
+}
+img {
+        border-radius: 8px;
+        max-height: 300px;
+        max-width: 600px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
 #video {
     border-radius: 8px;
     width: 600px;
@@ -18,4 +27,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+#logo{
+    width:100px;
+    height:60px;
 }
