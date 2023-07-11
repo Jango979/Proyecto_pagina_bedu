@@ -1,0 +1,14 @@
+﻿body {
+    background-color: #808080;
+}
+
+.col-md-6 {
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+#Sinopsis {
+    text-align:justify;
+    border-block:dashed;
+}
