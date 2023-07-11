@@ -4,9 +4,11 @@
     <title>Tienda de Videojuegos</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Aquí insertamos el CSS de Bootstrap -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
     <link rel="stylesheet" href="../styles/styles_franquicia.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
 </head>
 <body>
     <!-- Cabecera con el nombre de la tienda -->
@@ -25,40 +27,186 @@
         </header>
     </header>
 
-    <div class="accordion" id="accordionExample">
+    <div class="accordion" id="accordionMaster">
         <div class="accordion-item">
             <h2 class="accordion-header">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    Accordion Item #1
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1wh" aria-expanded="false" aria-controls="collapse1wh">
+                    Warhammer 40k
                 </button>
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+            <div id="collapse1wh" class="accordion-collapse collapse" data-bs-parent="#accordionMaster">
+                <!--Primer subacordeon-->
                 <div class="accordion-body">
-                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <div class="accordion" id="Subaccordion1">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button text-bg-primary p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse1wh" aria-expanded="true" aria-controls="Subcollapse1wh">
+                                    ¿Que es?
+                                </button>
+                            </h2>
+                            <div id="Subcollapse1wh" class="accordion-collapse collapse show" data-bs-parent="#Subaccordion1">
+                                <div class="accordion-body">
+                                    <p>
+                                        Warhammer 40K se desarrolla en un futuro distópico y violento en el año 40,000.
+                                        El juego presenta un vasto universo donde la humanidad se ha expandido por la galaxia y se enfrenta a numerosas
+                                        amenazas, tanto internas como externas. Las principales facciones del juego son el Imperio de la Humanidad,
+                                        una dictadura teocrática; los Marines Espaciales, guerreros genéticamente modificados y superhumanos que sirven
+                                        al Imperio; los Eldars, una raza de elfos espaciales en decadencia; los Orkos, una raza de seres violentos y
+                                        salvajes; y el Caos, una fuerza maligna y corruptora que busca la destrucción de la humanidad.
+
+                                        Los jugadores de Warhammer 40K controlan ejércitos de miniaturas y se enfrentan en batallas tácticas por el
+                                        control de planetas, recursos y poder. El juego combina estrategia, táctica y narrativa, y ofrece una amplia
+                                        gama de opciones de personalización y creación de ejércitos.
+                                    </p>
+                                    <img src="../Franquicia/w40k_1.jpg" class="img-fluid center">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed text-bg-secondary p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse2wh" aria-expanded="false" aria-controls="Subcollapse2wh">
+                                    Introducción al Lore
+                                </button>
+                            </h2>
+                            <div id="Subcollapse2wh" class="accordion-collapse collapse" data-bs-parent="#Subaccordion1">
+                                <div class="accordion-body">
+
+                                    <iframe id="video" src="https://www.youtube.com/embed/ckWN0utP4xs" title="El mejor universo de la ficción ¿Que es Warhammer 40k?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed text-bg-success p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse3wh" aria-expanded="false" aria-controls="Subcollapse3wh">
+                                    Material consumible
+                                </button>
+                            </h2>
+                            <div id="Subcollapse3wh" class="accordion-collapse collapse" data-bs-parent="#Subaccordion1">
+                                <div class="accordion-body">
+                                    <p>
+                                        Además del juego de mesa, Warhammer 40K ha dado lugar a numerosos libros, cómics,
+                                        videojuegos y otras formas de entretenimiento. El universo rico y oscuro de Warhammer 40K
+                                        ha cautivado a una gran base de fans en todo el mundo y ha generado una extensa comunidad
+                                        de jugadores y entusiastas.
+                                    </p>
+                                    <img src="../Franquicia/w40k_2.jpg" class="img-fluid">
+                                    <img src="../Franquicia/w40k_3.jpg" class="img-fluid">
+                                    <img src="../Franquicia/w40k_4.jpg" class="img-fluid">
+                                    <img src="../Franquicia/w40k_5.jpg" class="img-fluid">
+                                    <img src="../Franquicia/w40k_6.jpg" class="img-fluid">
+                                    <img src="../Franquicia/w40k_7.jpg" class="img-fluid">
+                                    <iframe id="video" src="https://www.youtube.com/embed/zlcL6JuV7Cs" title="Warhammer 40,000: Mechanicus | Release Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+
+
+
+        <!--El señor de los anillos-->
         <div class="accordion-item">
             <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    Accordion Item #2
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1TloR" aria-expanded="false" aria-controls="collapse1TloR">
+                    El señor de los anillos
                 </button>
             </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapse1TloR" class="accordion-collapse collapse" data-bs-parent="#accordionMaster">
+                <!--Primer subacordeon-->
                 <div class="accordion-body">
-                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <div class="accordion" id="Subaccordion2">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button text-bg-primary p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse1TloR" aria-expanded="false" aria-controls="Subcollapse1TloR">
+                                    ¿Que es?
+                                </button>
+                            </h2>
+                            <div id="Subcollapse1TloR" class="accordion-collapse collapse show" data-bs-parent="#Subaccordion2">
+                                <div class="accordion-body">
+                                    <p>
+                                        El Señor de los Anillos es una trilogía de novelas de alta fantasía escritas por el autor británico J.R.R.
+                                        Tolkien. La trilogía consta de tres libros: "La Comunidad del Anillo", "Las Dos Torres" y "El Retorno del Rey".
+                                        Fue publicada entre los años 1954 y 1955 y se ha convertido en una de las obras literarias más populares y
+                                        queridas de todos los tiempos.
+                                        La historia de El Señor de los Anillos se desarrolla en un mundo ficticio llamado la Tierra Media y sigue las
+                                        aventuras de un grupo de personajes, incluyendo hobbits, elfos, enanos, humanos y magos, en su lucha contra el
+                                        malvado Sauron. El principal objeto de poder y motivo central de la historia es el Anillo Único, un anillo
+                                        mágico creado por Sauron para dominar a los pueblos libres de la Tierra Media.
+                                        El protagonista principal de la historia es Frodo Bolsón, un hobbit encargado de destruir el Anillo y poner fin
+                                        al reinado de Sauron.
+                                        La narrativa de El Señor de los Anillos es rica en detalles, con una cuidadosa creación de un mundo complejo,
+                                        personajes memorables y un trasfondo histórico detallado. La obra de Tolkien abarca temas como la amistad, el
+                                        coraje, el sacrificio, la tentación y el conflicto entre el bien y el mal. Además de las novelas, la historia
+                                        de El Señor de los Anillos ha sido adaptada al cine en una exitosa trilogía dirigida por Peter Jackson, que fue
+                                        lanzada entre los años 2001 y 2003, y ha recibido múltiples premios y elogios.
+                                    </p>
+                                    <img src="../Franquicia/lotr.jpeg" class="img-fluid" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed text-bg-secondary p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse2TloR" aria-expanded="false" aria-controls="Subcollapse2TloR">
+                                    Introducción al Lore
+                                </button>
+                            </h2>
+                            <div id="Subcollapse2TloR" class="accordion-collapse collapse" data-bs-parent="#Subaccordion2">
+                                <div class="accordion-body">
+
+                                    <iframe id="video" src="https://www.youtube.com/embed/o-JIXDdTrJQ" title="Guía de Lectura de Tolkien y la Tierra Media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <!--STAR WARS-->
         <div class="accordion-item">
             <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    Accordion Item #3
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1SW" aria-expanded="false" aria-controls="collapse1SW">
+                    STAR WARS
                 </button>
             </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapse1SW" class="accordion-collapse collapse" data-bs-parent="#accordionMaster">
+                <!--Primer subacordeon-->
                 <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <div class="accordion" id="Subaccordion3">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button text-bg-primary p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse1SW" aria-expanded="false" aria-controls="Subcollapse1SW">
+                                    ¿Que es?
+                                </button>
+                            </h2>
+                            <div id="Subcollapse1SW" class="accordion-collapse collapse" data-bs-parent="#Subaccordion3">
+                                <p>
+                                    Star Wars es una franquicia de medios de ciencia ficción creada por el cineasta estadounidense George Lucas. La saga se inició con la película "Star Wars: Episode IV - A New Hope" (conocida originalmente como "Star Wars") estrenada en 1977, y desde entonces ha crecido hasta convertirse en un fenómeno cultural y una de las sagas más icónicas de la historia del cine.
+                                    El universo de Star Wars se desarrolla en una galaxia ficticia, y la historia abarca varios siglos. La trama principal se centra en la lucha entre el bien y el mal, encarnado por los Jedi y los Sith, respectivamente. La trama sigue las aventuras de personajes emblemáticos como Luke Skywalker, Han Solo, la Princesa Leia, Darth Vader y Yoda, entre muchos otros.
+                                    La saga de Star Wars se compone de tres trilogías cinematográficas principales: la trilogía original (Episodios IV, V y VI), que comenzó en 1977; la trilogía de precuelas (Episodios I, II y III), lanzada entre 1999 y 2005; y la trilogía de secuelas (Episodios VII, VIII y IX), estrenada entre 2015 y 2019. Además de las películas, la franquicia incluye series de televisión, libros, cómics, videojuegos y una amplia gama de productos relacionados.
+                                    Star Wars se ha convertido en un fenómeno cultural global, atrayendo a millones de seguidores en todo el mundo. Ha dejado un impacto significativo en la industria del entretenimiento y ha influido en numerosas obras posteriores de ciencia ficción y fantasía. Los temas recurrentes en Star Wars incluyen la lucha entre el bien y el mal, la redención, el poder de la fuerza, la amistad y el heroísmo.
+                                </p>
+                                <img src="../Franquicia/SW_1.jpg" class="img-fluid" />
+                                <audio id="audio1" src="../Franquicia/audio1.mp3"></audio>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed text-bg-secondary p-3" type="button" data-bs-toggle="collapse" data-bs-target="#Subcollapse2SW" aria-expanded="false" aria-controls="Subcollapse2SW">
+                                Introducción al Lore
+                            </button>
+                        </h2>
+                        <div id="Subcollapse2SW" class="accordion-collapse collapse" data-bs-parent="#Subaccordion3">
+                            <div class="accordion-body">
+                                <iframe id="video" src="https://www.youtube.com/embed/ybx2N43uaoo" title="STAR WARS: la cronología de la saga EXPLICADA 2022-2023🌟 Películas, Series, animación y más" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -85,6 +233,21 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
             crossorigin="anonymous"></script>
+    <script>
+        document.getElementById('Subcollapse1SW').addEventListener('show.bs.collapse', function () {
+            document.getElementById('audio1').play();
+        });
+
+    </script>
+    <script>
+        var myCollapse = document.getElementById('Subcollapse1SW')
+        var audio = document.getElementById('audio1')
+
+        myCollapse.addEventListener('hidden.bs.collapse', function () {
+            audio.pause()
+        })
+    </script>
+
 
 
 </body>

@@ -1,2 +1,21 @@
 ﻿body {
+    background-color: #808080;
+}
+
+img {
+    border-radius: 8px;
+    max-height: 300px;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#video {
+    border-radius: 8px;
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
