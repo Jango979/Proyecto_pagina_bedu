@@ -16,7 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from ProyectoBedu.views import inicio
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    #path('../../Pages/index.html'),
+    path('inicio/',inicio)
 ]
