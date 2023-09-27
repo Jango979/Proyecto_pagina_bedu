@@ -1,0 +1,15 @@
+00:00:29	María Teresa Cortes Carmona:	Hola!
+00:00:40	María Teresa Cortes Carmona:	Ok
+00:04:07	Milton Monzalvo:	ejemplo
+00:04:08	Jesus Santos:	igual el ejemplo
+00:04:12	Eulalio Chávez:	Ejemplo
+00:09:26	Milton Monzalvo:	yo estoy de acuerdo con la sesión extra
+00:19:03	Milton Monzalvo:	el tema de los materiales del prework que son muy malos
+00:28:07	Aztlán Fuentes:	aztlan@bedu.org
+00:30:30	María Teresa Cortes Carmona:	Gracias
+01:40:03	Milton Monzalvo:	listo
+02:03:43	Ana Garcia:	user, pass
+02:06:38	Jesus Santos:	if
+02:17:45	Ana Garcia:	agrega valores al final
+02:21:51	Jesus Santos:	no es userData.value en la condicional if?
+02:23:56	Mariana Dondiego:	si

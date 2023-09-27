@@ -1,0 +1,2792 @@
+WEBVTT
+
+00:22:05.000 --> 00:22:06.000
+No.
+
+00:22:06.000 --> 00:22:10.000
+César César Mariana, Miguel, Miguel, la verdad Mariana, Te.
+
+00:22:10.000 --> 00:22:14.000
+In
+
+00:22:14.000 --> 00:22:40.000
+Not a income problem, our inconvenient. You're the What's the component? And don't say it's KI, N, which is
+
+00:22:40.000 --> 00:22:49.000
+No. Muy bien. Muchísimas gracias mariana también. Eso nos ayuda definitivamente a que tuvimos oportunidad de subsanar, pues este huequito que tuvimos en el contenido y que si haya sido pues por supuesto, también también de valor muchísimas gracias, mariana, recuerden que este espacio es un espacio, seguro en el que nosotros el objetivo.
+
+00:22:49.000 --> 00:23:13.000
+Que queremos es escucharles. Y, además de escucharles, seguir teniendo. Acciones puntuales específicas para que definitivamente cumplamos con su objetivo de aprendizaje.
+
+00:23:13.000 --> 00:23:14.000
+Recordemos que en tecnología hay, como bien ya lo comentó Peter, hay varios caminos para llegar a una solución.
+
+00:23:14.000 --> 00:23:36.000
+Nosotros, efectivamente en médula hay ocasiones que tomamos un camino en ocasiones totalmente diferente al que en algunas industrias o en que en el que su campo laboral están utilizando y realmente, eso es lo enriquecedor de la tecnología que ustedes tengan posibilidad de no sólo tener una opción ahorita con lo que estuvo diciendo este Peter de M Script o sea que el 5 el 6 ustedes afortunadamente, justo muchísimas Gracias.
+
+00:23:36.000 --> 00:23:45.000
+De nuevo Peter por ayudarnos también a darles un contenido adicional y tener una solución de manera diferente en tecnología.
+
+00:23:45.000 --> 00:24:14.000
+Y nosotros, ya ustedes, ya que vayan avanzando un poquito más en esta ruta de aprendizaje en este diplomado de 5 módulos, pues justamente verán que hay varios caminos para llegar a una sola a una solución y nosotros lo que queremos es que ustedes conozcan ese camino sepan cómo actuar en ese camino para que ustedes con las herramientas que nosotros les damos puedan
+
+00:24:14.000 --> 00:24:15.000
+aplicarlas en su campo de trabajo y que realmente pueda ser muy útil para cada 1 de ustedes, entonces también.
+
+00:24:15.000 --> 00:24:29.000
+Por eso nosotros, nuestro temario es un temario que abordamos ciertos. Nos vamos por un camino, pero no significa que sea el único.
+
+00:24:29.000 --> 00:24:30.000
+Puede haber el siguiente módulo que ustedes ahorita van a iniciar. Puede suceder lo mismo que hay varios caminos para llegar a una misma solución, y nuestro objetivo es que ustedes conozcan 1 o 2 de esos caminos pero que al final les dejemos esta lógica en la que ustedes puedan hacer hacer y poner en práctica con cada 1 de los programas que estamos viendo en cada 1 de los módulos y bien adicional.
+
+00:24:30.000 --> 00:24:59.000
+Algún otro comentario que quieran compartirnos.
+
+00:24:59.000 --> 00:25:05.000
+Bien bien perfecto que que ya salvo el el Deli, que nos comentó del tema del Priward, que tuvimos oportunidad de por parte del equipo debo compartirles contenido adicional que mariana coincidía totalmente pues Bueno, las dudas, específicas que ya también tuve oportunidad y estoy 100 por 100 en contexto que tere nos ha hecho llegar muy de manera puntual.
+
+00:25:05.000 --> 00:25:28.000
+Agradezco y les platico que cuáles van a ser los siguientes pasos definitivamente. Una de las decisiones que se tomó es dejar a Peter en este nuevo nuevo módulo.
+
+00:25:28.000 --> 00:25:29.000
+Muchísimas gracias Peter, por esta por este apoyo que vamos a estar teniendo para el siguiente módulo.
+
+00:25:29.000 --> 00:25:38.000
+Es, no estoy segura si ya sabían si no Spoiler, de que ya tuve oportunidad de comentarlo.
+
+00:25:38.000 --> 00:25:46.000
+Y bien como como lo habían comentado. Dennos oportunidad, como bien hace un momento, lo estaban comentando probablemente en una sesión.
+
+00:25:46.000 --> 00:26:12.000
+Efectivamente no van a poder. No vamos. No vamos a ver nuevamente todo un módulo, pero lo que sí queremos es justo nivelar y que ustedes sientan que este módulo definitivamente se alargó para que podamos revisar más temas de los que teníamos preparados y que logramos el objetivo de aprendizaje entonces prácticamente vamos a seguir con esa con esa actividad en esta sesión para que ustedes puedan tener más contenido y
+
+00:26:12.000 --> 00:26:13.000
+Además, de más contenido que sigan practicando, recordemos que es practicar, practicar, practicar, practicar.
+
+00:26:13.000 --> 00:26:25.000
+Practicar para que esta habilidad ustedes la puedan seguir desarrollando. Y, por supuesto, para el siguiente módulo que ya me recuerdas.
+
+00:26:25.000 --> 00:26:32.000
+¿Cuál es? ¿Cuál es el siguiente módulo? ¿Van a entrar con no con bien bien. Bien. Pondría perfecto.
+
+00:26:32.000 --> 00:26:33.000
+Thank you.
+
+00:26:33.000 --> 00:26:34.000
+Bien.
+
+00:26:34.000 --> 00:26:39.000
+Pondría justo para que termine esta primer formación justo en el módulo de Derbiyak.
+
+00:26:39.000 --> 00:27:06.000
+También definitivamente es un mundo totalmente diferente al que ya han visto en fronteras fundamentales o en el mismo módulo de programación con llaves que estamos segurísimos y tengan por seguro que todo el equipo de interno todo nuestro equipo estamos justo revisando estos contenidos para que ustedes sean de muchísimo valor y pues por supuesto, con el apoyo del equipo de peter que también pues es parte de nuestro equipo devedo pueda seguir
+
+00:27:06.000 --> 00:27:13.000
+compartiendo la información y tere en tu caso, yo me voy a acercar directamente contigo para poder tener una sesión.
+
+00:27:13.000 --> 00:27:37.000
+Ya tengo unos unas opciones para ti, que estamos segurísimos, que con esta sesión que tengamos, vas a tener un poquito más de claridad, y estoy segura que vas a vas a poder sentir que estamos cumpliendo con los objetivos de aprendizaje y esta puerta queda abierta 100 por 100, para cada 1 y una de ustedes si alguien en particular quiere tener alguna algo algo que todavía no estén tan de acuerdo o algo
+
+00:27:37.000 --> 00:27:38.000
+que quieran que platiquemos de manera oportuna Con todo gusto pueden buscarme en Slack.
+
+00:27:38.000 --> 00:27:55.000
+Estoy como as plan. Fuentes, no van a encontrar ninguna otras plancuentes. Esa es la ventaja. Está muy fácil que me puedan contactar, o ahora mismo les voy a dejar mi correo electrónico que ¿
+
+00:27:55.000 --> 00:28:07.000
+De un segundito allá. Estoy arrogando a alguien aquí. Ya les iba a hacer. Y a el rogavedum punto verige.
+
+00:28:07.000 --> 00:28:13.000
+También está súper fácil. Mi correo astlana robavedoorg, ya sea vía correo electrónico o ya sea vía slack.
+
+00:28:13.000 --> 00:28:14.000
+Siéntanse con toda la confianza de poder mandarme un mensajito. Les recuerdo, estoy segurísima.
+
+00:28:14.000 --> 00:28:17.000
+Yo espero que todavía se acuerden de mí en nuestra sesión de unboarding. Mi nombre es oslan fuentes.
+
+00:28:17.000 --> 00:28:44.000
+Estoy encargada del área de atención a cada 1 de ustedes y mi objetivo dentro de verdugo es porque los objetivos de aprendizaje se cumplan, que el contenido que los expertos que la promesa que hicimos cuando ustedes confiaron en nosotros le estemos cumpliendo yo he estado al tanto 100 por 100 de todo lo que ha estado sucediendo dentro del grupo me ha estado ya han estado llevando puntual
+
+00:28:44.000 --> 00:29:09.000
+seguimiento. Muchísimas gracias. Jean, también por todo el apoyo que hemos tenido y el seguimiento con cada 1 de nuestros estudiantes de verdad que estamos comprometidos a que realmente cubramos al 100 por 100 estos objetivos, de aprendizaje entonces siéntanse con plena confianza, de que todo el equipo de bedu estamos trabajando de manera ardua para que podamos cumplir con estos objetivos, entonces si alguien adicional de tere pues por supuesto.
+
+00:29:09.000 --> 00:29:17.000
+con estos. Muchísimas gracias. Tere por comentarnos todo todo lo que ya nos has dejado en encuestas en estos foros y adicional.
+
+00:29:17.000 --> 00:29:41.000
+Alguien más tiene algún otro tema que quiera que revisemos ya de manera personal y particular para seguir avanzando con los temas que tenemos siéntanse con toda la confianza en Mandarme un slap nos buscamos una sesión y tenemos un 1 a 1 para que podamos resolver y darles estrategias y planes de acción para que sí, podamos cumplir los objetivos de aprendizaje de verdad perfecto algún otro
+
+00:29:41.000 --> 00:29:46.000
+comentario que alguien.
+
+00:29:46.000 --> 00:30:16.000
+Bien, perfecto. Me parece muy bien, Pues muchísimas gracias. Equipo. Cualquier duda que ustedes tengan con toda confianza, por favor, acérquense conmigo y en el transcurso de lo que nos resta de esta semana, pues vamos a seguir muy en muy muy muy muy en contacto Peter de nuevo muchísimas gracias gusto saludarte ya tenía ratito que no nos veíamos en en de manera virtual y pues el mayor de los éxitos en este cierre de
+
+00:30:17.000 --> 00:30:18.000
+Muchas gracias.
+
+00:30:18.000 --> 00:30:22.000
+módulo y, por supuesto, con él, con el módulo que que sigue también muchísimas gracias que tengan excelente noche.
+
+00:30:22.000 --> 00:30:23.000
+As.
+
+00:30:23.000 --> 00:30:24.000
+Okay.
+
+00:30:24.000 --> 00:30:30.000
+Muchísimas gracias. Al contrario, gracias a ustedes, lis disfruten mucho sucesión y aprovechen todo lo que tiene preparado Peter para ustedes.
+
+00:30:30.000 --> 00:30:34.000
+Muchísimas gracias. La y.
+
+00:30:34.000 --> 00:30:39.000
+Vale.
+
+00:30:39.000 --> 00:30:48.000
+Me dijo que y vamos a comenzar este grupo Vale, No sé si este.
+
+00:30:48.000 --> 00:30:58.000
+Entonces vamos a hacer un ejemplo. Es completo tratando de abarcar Bueno, ahorcando todos los tenemos ahora que reciben de alguna manera.
+
+00:30:58.000 --> 00:31:07.000
+Si no terminamos en esta sesión, tenemos todavía la sesión 2 014, 2, pues para poder como terminar vale.
+
+00:31:07.000 --> 00:31:16.000
+Entonces, bueno, vamos a movernos para poder moverme en directo. Estoy aquí. Bueno, vamos a crear nuestro directorio.
+
+00:31:16.000 --> 00:31:27.000
+Sé llamarlo, y es.
+
+00:31:27.000 --> 00:31:36.000
+Y aquí vamos a crear 2 archivos en Index, el Html Diabetescript y 11.
+
+00:31:36.000 --> 00:32:01.000
+Ahora sí esperemos que la compu que está compuesta un poquito viejita, Entonces, esperemos que lo y bueno, entonces vamos a empezar recordando un poquito el módulo pasado, el principalmente en la parte del baquetado de lo que sería el lenguaje de marlan si nosotros recordamos un documento.
+
+00:32:01.000 --> 00:32:29.000
+Html contiene elementos representados por etiquetas, sale haciendo un poquito énfasis en que, bueno, pues con Javascript y viendo los últimos 2 temas que bueno, recuerdan los 2 temas que vimos en la sesión y vamos a Tocar un poco de llaves cruz de Html junto con la parte del don para centrarnos principalmente en esos últimos 2 temas y vamos a innovar todos los días Entonces
+
+00:32:29.000 --> 00:32:32.000
+aquí vamos a ponerle mi escuela.
+
+00:32:32.000 --> 00:33:02.000
+Recordemos que todos los elementos Html pueden tener diferentes propiedades. Bueno, atributos en realidad, y hay 2 principales problemas, pero por lo menos 2 que si se llegan a compartir, sin importar porque recordando también hay elementos como el Input, de Dmg tal vez el bebé tratando de Acordarme de otro ahorita Bueno, que son de Autoserre es decir solamente tienen una sola etiqueta y muchos
+
+00:33:04.000 --> 00:33:23.000
+de esos elementos también llegan a tener atributos muy, muy específicos y que de alguna manera, si ellos los colocará otro elemento, pues no van a funcionar, sale pero ahorita, vamos a colocarle un aire y vamos a llamar salen listo entonces.
+
+00:33:23.000 --> 00:33:49.000
+¿Cómo? Bueno, si recordamos la principal principal característica en la cual ya vescrip hace Mancona con Html, es a partir del Dortmund del documental sale en donde cada elemento elemento me refiero, principalmente a las etiquetas móviles, también mi mujer meta un tiro lo que nosotros vayamos metiendo pues va a ser va a ser va a poder ser manipulado y como
+
+00:33:49.000 --> 00:34:01.000
+si fuera un objeto. Recordemos que los objetos son que estructuras que tienen propiedades y valores vamos viene acá.
+
+00:34:01.000 --> 00:34:02.000
+See.
+
+00:34:02.000 --> 00:34:12.000
+Muy bien, entonces vamos a vamos a empezar a meter un poquito de contenido. Por ejemplo, aquí vamos a meter un hecho, 1 que diga mi escuela.
+
+00:34:12.000 --> 00:34:32.000
+Y también vamos a sí, vamos a dentro. Vamos a meter un pequeño Folk. No se conecta la parte del action, y dentro vamos a meter unos laballs para poner un.
+
+00:34:32.000 --> 00:34:45.000
+Y un tipo Text con ahí no es cierto con e Mailine, que va a ser, salen aquí como tal, les digo, es para él.
+
+00:34:45.000 --> 00:34:50.000
+Joseph. Entonces voy a.
+
+00:34:50.000 --> 00:34:56.000
+2 iba a ser.
+
+00:34:56.000 --> 00:35:23.000
+Y el paso sale ya de aparte. Vamos a meterle un botón. Por ejemplo, los inputs. Los tipos llegan a tener en ocasiones un rol o una manera de poder trabajar y muchos por ejemplo, tienen el tipo el tipo súbdi permite por ejemplo, sobre nuestra pequeña aplicación y ya.
+
+00:35:23.000 --> 00:35:27.000
+Este.
+
+00:35:27.000 --> 00:35:32.000
+De tu.
+
+00:35:32.000 --> 00:35:37.000
+Y en.
+
+00:35:37.000 --> 00:35:44.000
+Y un poquito lenta, mi convoy, esperemos que no se llegue a gustar tanto.
+
+00:35:44.000 --> 00:35:59.000
+A esta y se dan cuenta. El botoncito tiene ya tienes un input. Es un botoncito porque o el mismo tipo, el tipo le entrega un este, una manera distinta de visualizarse. Por ejemplo, yo aquí.
+
+00:35:59.000 --> 00:36:06.000
+Puedo meter en el palio? No lo.
+
+00:36:06.000 --> 00:36:16.000
+Primero recargo ahí está. Sale entonces de alguna manera. No sé.
+
+00:36:16.000 --> 00:36:17.000
+Sí, ajá, Exacto! Le da la.
+
+00:36:17.000 --> 00:36:21.000
+Into the Al Uhhuh.
+
+00:36:21.000 --> 00:36:38.000
+Sí, En realidad tenemos. Recuerden que tenemos 2 etiquetas. Tenemos el botón como tal en el cual le puedo poner lo aquí, o tenemos también el uso de, por ejemplo, es lo mismo aunque aunque posiblemente se encuentren más este tipo de funcionalidad.
+
+00:36:38.000 --> 00:36:44.000
+Sale. Es más, común que se encuentre en un litro de tipo summit como tal. Un botón.
+
+00:36:44.000 --> 00:36:53.000
+Pero en realidad, los 2 funcionan para lo mismo. Sale ahora. Sí, perdón, tobillo. Ok, Perfecto.
+
+00:36:53.000 --> 00:36:56.000
+Good.
+
+00:36:56.000 --> 00:36:57.000
+Sí, dime.
+
+00:36:57.000 --> 00:37:01.000
+A mí nada más me falló una duda que no me acuerdo, bien porque en la aparecen como Ford.
+
+00:37:01.000 --> 00:37:12.000
+El atributo Ford. Lo que me permite es, de alguna manera ligar el sol con un control. Estos son controles de formularios.
+
+00:37:12.000 --> 00:37:23.000
+Me permiten controlar la información. Tenemos, por ejemplo, input de tipo Checkbox input de tipo radio, tenemos texarias que son cajitas de texto más grandes.
+
+00:37:23.000 --> 00:37:51.000
+Tenemos, por ejemplo, selex, que es como tal un tipo de control que me permite tener variar una lista de opciones para poder trabajar y los Laballs me permiten conectarlos o de alguna manera relacionarlos con el control con el cual están trabajando hay otra manera de hacerlos yo los puedo meter en un dif y de alguna manera dar a entender ¿
+
+00:37:51.000 --> 00:37:52.000
+Ah, Ok. Ok, Sí, gracias.
+
+00:37:52.000 --> 00:38:04.000
+Que estos 2 viven que son, sale, entonces puedo hacerlo con esa pandera o pues, de una manera semántica es esta parte del vale, y de alguna manera lo digo, con qué con vale.
+
+00:38:04.000 --> 00:38:29.000
+Entonces, aquí ya tenemos un pequeño formulario, Una cosa muy interesante de los formularios déjanos es el hecho de que si yo le doy clic al botón, viene lo que va a pasar hay un reloj hay un reloj por completo y por ejemplo, aquí se añade algo que le conocemos como periprans los formularios, tienen una capacidad de poder tener atributos como por
+
+00:38:29.000 --> 00:38:51.000
+ejemplo, Action, el cual me va a decir a dónde tengo que irme cuando mi formulario sea completo y esté completamente validado, ahorita como tal, el form digo, me lanza el mismo lugar porque porque no tiene una acción y lo que hace al fin y al cabo es concatenar este tipo de corporativos no se preocupen ahorita no nos vamos a meter en esa parte también pero de alguna manera funciona si
+
+00:38:51.000 --> 00:38:53.000
+esto?
+
+00:38:53.000 --> 00:39:03.000
+Y bueno, listo ahora para que yo pueda controlar o pueda obtener los datos que llegan a mi formulario.
+
+00:39:03.000 --> 00:39:13.000
+Puedo ocupar. Eventos Recuerdan esa parte de los eventos?
+
+00:39:13.000 --> 00:39:14.000
+Más opciones son acciones que hace el usuario. Por ejemplo, yo le puedo dar clic, y eso es un evento.
+
+00:39:14.000 --> 00:39:19.000
+See ya.
+
+00:39:19.000 --> 00:39:27.000
+Elevé. El evento fue que el usuario le dio click a mi control. Por ejemplo, yo aquí puedo colocarme sobre mí porque eso fue un evento.
+
+00:39:27.000 --> 00:39:33.000
+Yo puedo aplicar Comí teclado. Y ese es un evento y hay 3 para el teclado.
+
+00:39:33.000 --> 00:39:50.000
+Hay 3 diferentes momentos, y el cuando presiono, cuando realmente sucede, el hecho de que mi carácter se active y cuando suelto mi tecla, sale si recordamos, por ejemplo.
+
+00:39:50.000 --> 00:39:51.000
+En la sesión venían en listados diferentes tipos de eventos. Hay un montón de eventos.
+
+00:39:51.000 --> 00:40:10.000
+Los magos entre los mouselive, el Pri, el joven, casi lo mismo de acá tenemos, por ejemplo, ajá el onater Brink.
+
+00:40:10.000 --> 00:40:16.000
+Este es de exhibición en un lobo o plan online, por ejemplo. Estos son de la ventana del mundo.
+
+00:40:16.000 --> 00:40:35.000
+Si ustedes recuerdan, en la sesión tenemos 2 documentos, este objeto globales cuando nosotros trabajamos con llaves. De hecho, Tmel, cuáles son?
+
+00:40:35.000 --> 00:40:42.000
+1 es el documento y otro. ¿Cuál es?
+
+00:40:42.000 --> 00:40:45.000
+You'll get element.
+
+00:40:45.000 --> 00:40:46.000
+I,
+
+00:40:46.000 --> 00:40:55.000
+No el El Windows es todo mi navegador literal, todo mi navegador y el documento es todo lo que se ve entre el navegador y esta área blanca.
+
+00:40:55.000 --> 00:41:08.000
+Sale. Entonces yo tengo acceso. Recordemos a eventos ahora de la Windows, como por ejemplo, el Aster Primet por Print en un error en Hong Kong Change o Lodo Mesas Online Online.
+
+00:41:08.000 --> 00:41:15.000
+Por ejemplo, puedo saber si estoy desconectado o puedo saber cuando estoy conectado sapoter todo ese tipo de acceso a eventos.
+
+00:41:15.000 --> 00:41:35.000
+Ahora, por ejemplo, yo aquí tengo acceso a eventos del formulario como Bluero Chanson Contextmension Focus o input ony baldo onresser puedo tener todo eso controlando mi formulario me puedo ir por ejemplo, a los eventos del teclado okidam cuando la presiono cuando cuando baja con kipres es cuando literal el
+
+00:41:35.000 --> 00:41:42.000
+usuario la presiona. Y yo es cuando el usuario suelta, su texto. Son los 3 eventos principales que tenemos de Keylor.
+
+00:41:42.000 --> 00:41:46.000
+Los eventos del mouse pues el click en los dobu clic en lo más alto.
+
+00:41:46.000 --> 00:42:14.000
+Cuando estoy sobre algo, cuando mi mamá se mueve cuando Bilbao sale cuando mi Maus está sobre entonces, cuando, por ejemplo, si tengo un dato y tengo mi wild o la pequeña comodita, bueno, pues puedo como tal saber si está haciéndolo, pero muchas veces cuando dan documentación, se van a encontrar con esta palabra de prikater qué significa que en algún momento el evento ya no es ya no está bueno.
+
+00:42:14.000 --> 00:42:18.000
+permitido, si soportado, no lo sabemos, sale el hecho de que exista, es porque recordemos que podemos ocupar.
+
+00:42:18.000 --> 00:42:48.000
+Pero conocemos como código, legas o código antiguo que solamente se le da mantenimiento, pues su defecto, el hecho de que cuando yo ocupe versiones nuevas posiblemente ya no le dé soporte los navegadores pues un efecto ya ni siquiera funciona sale entonces muchas veces viendo documentaciones por ejemplo, de frameworks librerías o de hasta una tecnología se van a dar cuenta o muchas veces van
+
+00:42:49.000 --> 00:42:50.000
+a encontrarse que, pues esas tecnologías van van evolucionando, van sacando nuevas versiones y se van a encontrar con esta palabra de placa, y es muy común.
+
+00:42:50.000 --> 00:43:20.000
+Es súper común. Cuando una versión migra o cuando una tecnología saca una nueva versión. ¿Por qué? Porque durante durante el tiempo de vida que tiene una tecnología, puede que de repente hayan encontrado mejores maneras de hacer algo puedes encontrar mejores maneras de optimizar se dieron cuenta, que podían centralizar muchas cuestiones, que tenían en diferentes, métodos.
+
+00:43:21.000 --> 00:43:41.000
+En 1. Entonces, de alguna manera, el de precate Es esta manera decirle al usuario en el caso los desarrolladores, que, pues ya no es más si se dan cuenta ya ni siquiera puedo ver la descripción del evento como tal puedo entrar a documentación a comparación de aquí por ejemplo, yo puedo.
+
+00:43:41.000 --> 00:43:48.000
+A esta, y ya me va a llevar directamente a pues, cómo funciona?
+
+00:43:48.000 --> 00:43:49.000
+Así es como lo puedo invocar. ¿Vale? Entonces nos vamos a dar cuenta que tenemos eventos de Drag.
+
+00:43:49.000 --> 00:43:59.000
+Tenemos eventos de clip. Por el clima literario es cuando ya agarro y copio.
+
+00:43:59.000 --> 00:44:21.000
+Ahí está el copiar en ese momento. Yo entro en una fase de clipboard, y puedo, en el momento de copiar en el momento de cortar en el momento de pegar, puedo estar sabiendo que está sucediendo en cada momento y Bueno, de ella puedo meterme a vetos de media y Bueno, los eventos misceláneos que al parecer dice que ontogol, se dispara cuando el usuario abre.
+
+00:44:21.000 --> 00:44:42.000
+O cierra los elementos. Este elemento no lo ocupado, pero lo podemos investigar, sale Entonces dan cuenta. Tenemos un montón de eventos que podemos escuchar, y de ahí.
+
+00:44:42.000 --> 00:44:47.000
+Y podemos, como tal, poder controlar o darle alguna respuesta al usuario. Vale, Por ejemplo, imaginemos que tenemos un elemento dentro de nuestra aplicación.
+
+00:44:47.000 --> 00:45:00.000
+No sé si, por ejemplo, han abierto Youtube y le han dado clic derecho al área del vídeo.
+
+00:45:00.000 --> 00:45:09.000
+Les aparece un menú muy diferente al que le darían si estuvieran fuera del área del vídeo. No sé si lo han hecho.
+
+00:45:09.000 --> 00:45:11.000
+No.
+
+00:45:11.000 --> 00:45:18.000
+¿no? Bueno, y tal donde sabes Lak, por ejemplo, no salió Youtube.
+
+00:45:18.000 --> 00:45:43.000
+Para que nos demos cuenta que es muy diferente la manera en la que nosotros podemos entregarle funcionalidad al usuario si ven que me trabo es por la computadora, listo, entonces una cosa es el menú, normal, que me va a entregar por ejemplo, a mi navegador por ejemplo, qué opciones me podía dar el menú contextual es el que se abre con el clic derecho esa cosita que abre
+
+00:45:43.000 --> 00:46:04.000
+flotante. Entonces una cosa es el menú contextual que me va a abrir el navegador. Bueno, cuando decida brisa, está este que viene atrás, volver a cargar guardar como imprimir la regla y otra cosa, a ver si podemos vamos a abrir el.
+
+00:46:04.000 --> 00:46:14.000
+Vamos a dar pausa para que no nos habite más La experiencia para mí.
+
+00:46:14.000 --> 00:46:23.000
+Y otra cosa a esta que me parece cuando yo estoy en el área del vídeo, si se dan cuenta, es muy diferente.
+
+00:46:23.000 --> 00:46:34.000
+Y ahí es cuando nosotros, como desarrolladores, podemos ofrecer experiencias distintas al usuario ocupando los eventos que tenemos a nuestro a nuestro favor.
+
+00:46:34.000 --> 00:46:42.000
+Por ejemplo, esto es el click. Fue en el área del vídeo Y aquí, por ejemplo, estoy fuera del bebé del sur del clip.
+
+00:46:42.000 --> 00:46:52.000
+Yo ya abrí el menú contextual de mi navegador, Es decir, por ejemplo, yo pude haber ocupado el evento del.
+
+00:46:52.000 --> 00:47:07.000
+Ahí estás por aquí. Bueno, es un evento de ratón, entonces debe de ser un clic. Muy posiblemente en el cual ya podría, como tal detectar.
+
+00:47:07.000 --> 00:47:29.000
+Hay creo que maneras de detectar qué tipo de clicks dio clic derecho. Si hay maneras de hacerlo, pues está no ocupado. Pero podemos buscar sale pero entonces si se dan cuenta nosotros a partir de los eventos que tenemos a nuestro alcance podemos entregarle diferentes experiencias al usuario, hasta acá vamos bien con la parte de eventos.
+
+00:47:29.000 --> 00:47:30.000
+Hmm.
+
+00:47:30.000 --> 00:47:38.000
+Muy bien. Ahora hay 2 maneras de poder tener acceso y poder manipular los eventos del propio navegador.
+
+00:47:38.000 --> 00:48:05.000
+Tenemos como tal el uso del oro y el evento dentro de nuestra etiqueta, como por ejemplo, aquí decirle: o un clic, sale esa es una manera, pero ahí lo que estoy haciendo es entregarle directamente. Al elemento el evento es una la otra es el a si recuerden esa parte.
+
+00:48:05.000 --> 00:48:11.000
+See, yeah, Hey, good time.
+
+00:48:11.000 --> 00:48:17.000
+Correcto. Recordemos que Adveniscener te va a pedir 2 parámetros principales: ¿Qué evento debo escuchar?
+
+00:48:17.000 --> 00:48:27.000
+Y qué debo hacer cuando yo escucho la venta sale, pero primero para poder agregar ese tipo de eventos que tenemos que hacer, tenemos que seleccionar elementos.
+
+00:48:27.000 --> 00:48:37.000
+Tenemos que entrar al 2 poder, cacharlos. Y ahora sí, empezarle agregar propiedades, vamos bien, acá.
+
+00:48:37.000 --> 00:48:46.000
+Team.
+
+00:48:46.000 --> 00:48:47.000
+Document.
+
+00:48:47.000 --> 00:49:12.000
+Muy bien, para poder hacer ese tipo de selecciones. ¿Qué objeto tenemos que ocupar Windows o documento Windows o 2 comentarios, porque porque documen me da acceso directo a todo mi documento es decir, a cada nodo que exista en mi documento sale entonces por ejemplo, puedo ocupar documentos.
+
+00:49:12.000 --> 00:49:13.000
+Get element by ID. Bye.
+
+00:49:13.000 --> 00:49:18.000
+Luego, qué método o qué métodos tengo acceso para poder hacer selecciones en y y.
+
+00:49:18.000 --> 00:49:27.000
+Good evening.
+
+00:49:27.000 --> 00:49:28.000
+Thank you.
+
+00:49:28.000 --> 00:49:36.000
+Y les falta un va a entonces con 1, estaría seleccionando por el atributo idéntico, Ah, por ejemplo, por el atributo idi.
+
+00:49:36.000 --> 00:49:53.000
+El segundo, que es clasning, lo haría por el atributo clase que, por ejemplo, aquí no lo tenemos, pues lo podemos, está ahí y el otro lo haría por el nombre del elemento sea por el nombre de la etiqueta Vale, vamos Bien, acá.
+
+00:49:53.000 --> 00:49:54.000
+See.
+
+00:49:54.000 --> 00:50:12.000
+Muy bien, vamos a meternos directamente al formulario. Entonces voy a darle aquí id y vamos a decirle que se va a llamar lobby, y entonces, si yo quiero agarrar al.
+
+00:50:12.000 --> 00:50:18.000
+¿Qué método tendría que ocupar bien el m valle aquí que denominan Byeclassten, O quédense.
+
+00:50:18.000 --> 00:50:24.000
+Qué del o cuál es el elector, también lo.
+
+00:50:24.000 --> 00:50:26.000
+Bye.
+
+00:50:26.000 --> 00:50:36.000
+¡Vaya, aire muy bien. Entonces, el elemento va a ir Yo también me va a pedir que el nombre del aire, no el texto del aire.
+
+00:50:36.000 --> 00:50:47.000
+Este caso. Listo con esto que voy a obtener, pues voy a obtener un nodo, 1 de que del domo vamos Bien, acá.
+
+00:50:47.000 --> 00:50:48.000
+See.
+
+00:50:48.000 --> 00:50:59.000
+Muy bien. Ahora, cuando nosotros hagamos elecciones en el documento, yo les recomiendo que siempre las guarden para que para que puedan manipularlas después.
+
+00:50:59.000 --> 00:51:15.000
+Sale. Entonces, por ejemplo, aquí puedo guardar mi formulario. Lo puedo llamar formulario o por sale el hombre que le quieran agregar a la variable, van a guardar.
+
+00:51:15.000 --> 00:51:21.000
+El nodo, es el que ustedes deseen. Yo les recomiendo que tenga contexto de que está guardando.
+
+00:51:21.000 --> 00:51:31.000
+También. Entonces ya aquí tenemos como tal el nodo en Al tener mi modo, yo puedo agregarle un lisen a benítez.
+
+00:51:31.000 --> 00:51:39.000
+Sale la única manera de poder tener acceso al método de bendición es tener como tal un sale y el nodo.
+
+00:51:39.000 --> 00:51:52.000
+Lo tenemos directamente. Aquí podemos hacerlo también con Clashnik, pero que estaría obteniendo con qué elemento byclassme.
+
+00:51:52.000 --> 00:51:55.000
+No, classic.
+
+00:51:55.000 --> 00:51:58.000
+Y un.
+
+00:51:58.000 --> 00:51:59.000
+Okay.
+
+00:51:59.000 --> 00:52:15.000
+Sí. Recuerden Jennifer por el nombre. Me dice que va a entregar solamente un elemento get elements By Classney, o el nombre me está diciendo que va a entregar varios elementos y Goethe Lements By Thatcher lo mismo.
+
+00:52:15.000 --> 00:52:34.000
+Me va a entregar varios Entonces, los get elements en Kennedy manten a menudo el gat elements me va a entregar un html colection tanto para clase como para tagliafico y los guardi selectos que me van a entregar.
+
+00:52:34.000 --> 00:52:35.000
+They'll come to another. Hello.
+
+00:52:35.000 --> 00:52:57.000
+Un no, pero en el tipo es un nofis. Sale la gran diferencia entre un html colection y un nobleis principalmente que es los métodos que tenga acceso, sale por ejemplo, con un auditorio ya tengo acceso a un método funcional llamado foritch el cual me permite recorrerlos y para html colection ni siquiera tengo 1 que me permita
+
+00:52:57.000 --> 00:53:18.000
+recorrerlo pero sí puedo hacerlo a partir de qué, Pues no puedo convertir un arreglo, y de ella puedo manipularlo coniste Redius Omar, que nos dice lo mismo puedo convertir en oaxaca a un arreglo y poder ocupar filterrey uso más o cualquier otro método funcional de los arreglos solo es este juego de tipos vale pero en este caso sólo estamos
+
+00:53:18.000 --> 00:53:46.000
+obteniendo Vale, Entonces ya entramos a la parte de la de Bendice. ¿Cómo estamos ocupando un Vamos a irnos directamente a que a los eventos del formulario que son esta parte de aquí sale entonces si leemos un poco la descripción de los eventos lo que yo tengo que detectar es cuando mi botoncito.
+
+00:53:46.000 --> 00:53:58.000
+Si clickan sale en ese momento, va a va a suceder un se lanza, sale en este caso.
+
+00:53:58.000 --> 00:54:09.000
+Yo tendría que ocupar elonso meet. Vale ahora cuando yo ocupe adelante bendiciones, No voy a meter consumir o un clic, o con más.
+
+00:54:09.000 --> 00:54:19.000
+No sólo voy a meter el nombre del evento. Elón es un prefijo que se ocupa solamente para poderlo agregar a nivel de etiqueta.
+
+00:54:19.000 --> 00:54:24.000
+Vamos. Bien, acá.
+
+00:54:24.000 --> 00:54:26.000
+You know, my parents are petite.
+
+00:54:26.000 --> 00:54:39.000
+Sí, claro, sí. Cuando nosotros vayamos a ocupar un nombre de evento con el prefijo hoy ¿Representa o solamente puede ser ocupado a nivel de etiqueta.
+
+00:54:39.000 --> 00:55:07.000
+Solamente lo puedo meter directamente en en H. Si yo quiero ocupar benízeners. Lo que yo tengo que hacer es quitarle el prefijo, nada más dejar el nombre del evento, por ejemplo, submit o click o max Over o mouse o mouse enter focus Change salen de quito el prefijo Hoy cuándo lo voy a ocupar con y le
+
+00:55:07.000 --> 00:55:17.000
+voy a colocar el fijo o cuando lo voy a ocupar directamente en el maquetal.
+
+00:55:17.000 --> 00:55:18.000
+List of
+
+00:55:18.000 --> 00:55:42.000
+Perfecto. Muy bien. Aquí voy a escuchar y recordemos que Aderezener me pide 2 cosas: el nombre del evento, escuchar, y la otra que es lo que tengo que ejecutar a esta sale en este caso, por lo regular se llega a ocupar una función anónima.
+
+00:55:42.000 --> 00:56:09.000
+¿Por qué? Porque podría ocupar una función que esté fuera de mi documento, pero por lo regular el hecho de que yo esté agregando a los nodos, es porque necesito que hagan algo muy en específico por lo regular arroz full o funciones anónimas para poderla aquí como tal entregar o empezar a desarrollar todo lo que necesito que hagan mi nodo cuando escuche el
+
+00:56:09.000 --> 00:56:17.000
+evento que le estoy indicando. Vamos. Bien, acá.
+
+00:56:17.000 --> 00:56:33.000
+Muy bien cuando ocupamos ader Benízener, nosotros tenemos la oportunidad de ocupar dentro de mi función como mi, un parámetro llamado Event Heven.
+
+00:56:33.000 --> 00:56:40.000
+Es conocido un objeto.
+
+00:56:40.000 --> 00:56:50.000
+El objeto del evento. Lo que tiene dentro son características.
+
+00:56:50.000 --> 00:57:14.000
+Y casi características del como, por ejemplo, de las que llego a recordar. ¿Y qué nodo sufrió el evento con coordenadas por ordenadas.
+
+00:57:14.000 --> 00:57:20.000
+De la pantalla.
+
+00:57:20.000 --> 00:57:27.000
+Donde sucedió el evento.
+
+00:57:27.000 --> 00:57:36.000
+Y y viene, por ejemplo, si tiene permitido el bucleo, es eléctrico, que es el dobleo y viene.
+
+00:57:36.000 --> 00:58:06.000
+También recuerdo las anteriores veces, venía el Pat, que siguió el evento desde donde surge el evento hasta el tope de mi documento. Vale y viene más bien un montón de propiedades, pero principalmente cuando nosotros ocupamos formularios recordemos que cuando yo le doy clic a un botón que vive dentro de un formulario que va a suceder.
+
+00:58:09.000 --> 00:58:21.000
+Va a haber un robot, o sea, va a a través de este lo que va a suceder es que va a haber un fragmento. Va a recargarse mi página.
+
+00:58:21.000 --> 00:58:25.000
+Cada vez se va a recargar, se va a recargar entonces parte de las capacidades del evento es poder ocupar métodos también.
+
+00:58:25.000 --> 00:58:36.000
+Los eventos también tienen métodos y hay 2 muy importantes.
+
+00:58:36.000 --> 00:58:48.000
+Métodos del evento, 1 Privent y el otro que se llama stop pro para.
+
+00:58:48.000 --> 00:59:06.000
+No sé por que el detiene el evento y casi el la gente evita la.
+
+00:59:06.000 --> 00:59:17.000
+Lo paga. Recuerdan lo que les comentaba el Pack, que es el camino que sigue mi evento desde donde surge hasta el tope de mi documento.
+
+00:59:17.000 --> 00:59:27.000
+Seré cuando esa parte.
+
+00:59:27.000 --> 00:59:29.000
+Is a.
+
+00:59:29.000 --> 00:59:37.000
+En pocas palabras, lo que hace es registrar, por ejemplo, si mi evento surge aquí, ¿cuál es el pato?
+
+00:59:37.000 --> 00:59:43.000
+Bueno, pues fue el inputs nuevo folklore. Luego fue el dip. Luego fue el sexo lo bajo el body, y luego fue la htm.
+
+00:59:43.000 --> 00:59:53.000
+Ese es el pack de todo mi evento, desde donde surge hasta el nodo principal. Y quién es el modo principal del documento Html.
+
+00:59:53.000 --> 01:00:20.000
+Vale, pues el stor propagation. El objetivo que tiene es detener esa propagación, es simplemente decirle no tú te quedas sale por lo regular las propagaciones o los bucleos son algo inevitable, de los eventos vale en pocas palabras advierten al documento, que sucedió algo y registran que nodos recordemos que un modo un nodo.
+
+01:00:20.000 --> 01:00:26.000
+Puede ser un nodo padre o puede ser un nodo. Y recuerdan esa parte.
+
+01:00:26.000 --> 01:00:28.000
+See
+
+01:00:28.000 --> 01:00:41.000
+Cuando nosotros vivimos dentro de un nodo, nos convertimos en 2 hijos. Por ende, aquel lodo que nos engrapa o nos es un nudo padre, entonces, en pocas palabras, el nodo hijo le va a ir indicando a cada nudo.
+
+01:00:41.000 --> 01:00:52.000
+Padre. Este es el nuevo padre, pero este es un nuevo padre, pero este es un nuevo padre, del sexo, a su vez, del body.
+
+01:00:52.000 --> 01:00:57.000
+Y el sufrimiento en la propagación ¿Es esto es indicar de dónde surge hasta dónde llega? Vale.
+
+01:00:57.000 --> 01:01:25.000
+Tienes tu propagación tiene esa capacidad de detener esa propagación. Vale, en el caso principal de los formularios, cuando nosotros queremos todavía controlar o validar cierta información, lo que vamos a detener siempre va a ser al evento, y cómo lo hago muy sencillo recordemos que en el segundo parámetro del adverdicener recibimos una función, y esa función, recibe un objeto, llamado
+
+01:01:25.000 --> 01:01:30.000
+event por Convención. Se llama evento. O sea, no hay otra, siempre se vaya mal. ¿Vale?
+
+01:01:30.000 --> 01:01:37.000
+Lo pueden llamar eventos si quieren, pero por convención, algo de alguna manera por origen lo conocemos como evento.
+
+01:01:37.000 --> 01:01:50.000
+Obviamente, cómo detengo un evento invoco a mi objeto eventual. Esto en punto privat.
+
+01:01:50.000 --> 01:02:00.000
+En ese momento ya no va a suceder y es más, podemos averiguarlo con solo y después del clic.
+
+01:02:00.000 --> 01:02:12.000
+Vale, vamos a hacer 2 momentos. Uno sin el evento, sin el primer default quegamos.
+
+01:02:12.000 --> 01:02:35.000
+Ahí está cuando yo le dé click. ¿Qué debería suceder? Debería de lanzarme Este pequeño cónsul. Sale Entonces voy a dar clic y ya ve que se le cargó se recargó se descargó y se recargó. Bueno, vamos a detener el evento.
+
+01:02:35.000 --> 01:03:05.000
+Cargo Nacho Ay de Conducir.
+
+01:03:11.000 --> 01:03:13.000
+De los.
+
+01:03:13.000 --> 01:03:40.000
+No es un ¿Dónde está este niño que ven?
+
+01:03:40.000 --> 01:03:41.000
+I know, We if you go
+
+01:03:41.000 --> 01:03:47.000
+Sí, claro qué me faltan, que me no, porque ya lo tengo acá.
+
+01:03:47.000 --> 01:03:49.000
+Llamaré el.
+
+01:03:49.000 --> 01:03:56.000
+Es correcto. Me falta llamar a mi Script. Es completamente correcto.
+
+01:03:56.000 --> 01:04:00.000
+Y aquí sería me po tis. Recordemos que los scripts tienen una tributo que me permite detener ejecución hasta que mi documento esté completo.
+
+01:04:00.000 --> 01:04:11.000
+Recuerdan cómo se llama?
+
+01:04:11.000 --> 01:04:12.000
+Diferir. Creo que.
+
+01:04:12.000 --> 01:04:42.000
+Diferir. ¿Correcto? Lo que va a evitar es que mi código javascript se ejecute y va a esperar hasta que el documento esté listo para ahora, sí, y ejecutar el script ya vale, entonces ahora sí, ricardo si le doy clic ahí está antes y después de clic y si yo quito por ejemplo, mi.
+
+01:04:44.000 --> 01:04:59.000
+Bien. Se te carga, recarga de recarga. Sale entonces el primer default, lo que me va a permitir es detener el evento, o sea, ya no va a permitir hacerlo.
+
+01:04:59.000 --> 01:05:21.000
+Sucedió el evento. Lo que no sucede son todos los efectos del mismo. Y por ejemplo, recuerden, como estamos nosotros, dentro de un formulario, el formulario en automático va a ser esa recarga sale vamos bien, hasta acá.
+
+01:05:21.000 --> 01:05:22.000
+I see.
+
+01:05:22.000 --> 01:05:34.000
+Sí dudas con el primer.
+
+01:05:34.000 --> 01:05:35.000
+Y.
+
+01:05:35.000 --> 01:05:39.000
+And I am. And 11 to 3.
+
+01:05:39.000 --> 01:05:49.000
+A vamos a ver qué tiene nuestro, Bueno, como tal. Nunca le he hecho, pero vamos a ver qué nos dice esto.
+
+01:05:49.000 --> 01:05:57.000
+For.
+
+01:05:57.000 --> 01:06:22.000
+Mm: Nunca me lo había preguntado. Lisa: Es interesante dividir eso sí está. Bueno, eso no me lo voy a preguntar.
+
+01:06:22.000 --> 01:06:34.000
+Mmm: No me dice mucho.
+
+01:06:34.000 --> 01:06:52.000
+Bueno, sí, tengo una, vamos a hacer. Y o sea, vamos a meter un botoncito.
+
+01:06:52.000 --> 01:07:01.000
+Y aquí te voy a llamar click. Entonces entonces.
+
+01:07:01.000 --> 01:07:14.000
+Vamos a agregar, vamos a una selección. Otra vez. Voy a tomar esta parte de acá.
+
+01:07:14.000 --> 01:07:24.000
+Y el lugar del formulario. Lo voy a llamar botón y voy a invocar a.
+
+01:07:24.000 --> 01:07:28.000
+No se llama.
+
+01:07:28.000 --> 01:07:36.000
+Muy bien, vamos a agregarle al botón junto al.
+
+01:07:36.000 --> 01:07:43.000
+Y no sé si que sean de click y que simplemente cuando yo le dé click.
+
+01:07:43.000 --> 01:07:47.000
+Me mande un alert.
+
+01:07:47.000 --> 01:08:17.000
+Que diga que es de este el botón. Y luego vamos a hacer una selección hacia el boti. Cuando nosotros hacemos elecciones, por ejemplo, hacia nodos como el Body, y son de alguna manera son los modos principales no es tan requerido ocupar el documento yo puedo hacer directamente con Body punto.
+
+01:08:19.000 --> 01:08:30.000
+A Evelyner, sale el body al ser una hacer 1 de los elementos principales de mi documento, puedo accederlo directamente sin necesidad de ocupar 2 comentarios.
+
+01:08:30.000 --> 01:08:40.000
+Lo puedo hacer directamente con 2 comentes, pero pues puedo hacer directamente acá con Body. Al fin y al cabo, body sigue siendo un nodo, un modo más, pero puede ser accedido.
+
+01:08:40.000 --> 01:08:44.000
+Creo que también es punto.
+
+01:08:44.000 --> 01:08:59.000
+Ave Benízener puede ser accedido sin ningún problema. En este caso vamos a ver ahorita con el bote y te voy a decir que click también. Y me va a robar esta función de acá.
+
+01:08:59.000 --> 01:09:05.000
+Y fui criado, pero ahora, desde el voz.
+
+01:09:05.000 --> 01:09:16.000
+Vamos a ver qué sucede cuando hagamos esto. Vamos a a esta no y Boddie.
+
+01:09:16.000 --> 01:09:20.000
+Ah, mira, no me lo reconoció.
+
+01:09:20.000 --> 01:09:26.000
+Ni modo vamos a anunciarlo desde.
+
+01:09:26.000 --> 01:09:37.000
+Punto para 5. Ah, sí, Desde aquí, simen te comes, Ahí está listo. Entonces voy a darle click al botoncito.
+
+01:09:37.000 --> 01:09:51.000
+Ahí está, cuál es el botón y cuál es el body? Si te das, yo solamente presioné el botón.
+
+01:09:51.000 --> 01:09:59.000
+Yo no le di Sally. Ahora vamos a ver si podemos detener.
+
+01:09:59.000 --> 01:10:12.000
+Sería aquí. Vamos a obtener punto esto. Por favor.
+
+01:10:12.000 --> 01:10:16.000
+Con esto voy a dar clic a mi Body.
+
+01:10:16.000 --> 01:10:20.000
+Le voy a dar clic, acá.
+
+01:10:20.000 --> 01:10:33.000
+Y ya no se ejecutó, sale. ¿Qué sucede aquí? La propagación, como les había mencionado, es el hecho en el cual, cuando un evento se dispara.
+
+01:10:33.000 --> 01:10:46.000
+Esto tiene acá. Hace un tipo de, por ejemplo, vamos a regresar al ejemplo del equipo, que es 1 de los elementos que vive más.
+
+01:10:46.000 --> 01:10:56.000
+Yo le doy clic al botón, Por ende, llegó al formulario. Por ende, llega Allip, Por ende, llega al sesión por donde llega el Body y ponente llega a menudo raíz que será chutemente.
+
+01:10:56.000 --> 01:11:02.000
+A eso. Yo le llamo propagación del evento. Sale, vamos bien, acá.
+
+01:11:02.000 --> 01:11:03.000
+See.
+
+01:11:03.000 --> 01:11:10.000
+Muy bien el ejemplo. Lo pusimos con el botón al botón. Yo le añadí el evento clic y a mi body también.
+
+01:11:10.000 --> 01:11:16.000
+La gente. Bueno, ahorita. Le agregué el evento clic. Me iba a dar 2 respuestas.
+
+01:11:16.000 --> 01:11:26.000
+Si yo le doy, explica el botón, me va a decir que fue criado en el motor. Y si yo le doy click al Body, me va a decir que fue aplicado en el Body, vamos bien acá.
+
+01:11:26.000 --> 01:11:27.000
+2.
+
+01:11:27.000 --> 01:11:38.000
+Sí. Si yo, por ejemplo, le quito cuál y le doy clic al botón, cuántos sallers voy a obtener?
+
+01:11:38.000 --> 01:11:44.000
+Si yo le doy clic a mi botoncito, cuántos algas voy a obtener.
+
+01:11:44.000 --> 01:11:47.000
+Oh.
+
+01:11:47.000 --> 01:11:52.000
+A no le dio un clic. Cuántos debería tener 1 porque le di clic una vez, no sí va.
+
+01:11:52.000 --> 01:11:55.000
+Okay.
+
+01:11:55.000 --> 01:12:00.000
+Entonces recargamos y fíjate cuántos voy a obtener, acá. Está. ¿Cuál es?
+
+01:12:00.000 --> 01:12:06.000
+El botón. Y fue desde el body pregunta de click al Body.
+
+01:12:06.000 --> 01:12:07.000
+No.
+
+01:12:07.000 --> 01:12:22.000
+No. Yo le diría el botón pero como no detuve su propagación, subió subió el bote, lo escuchó Y como fue un clic, a pues va.
+
+01:12:22.000 --> 01:12:23.000
+Okay.
+
+01:12:23.000 --> 01:12:33.000
+Yo también me ejecuto salir porque así funcionan. Los eventos se propagan. Ahora, si nosotros, por ejemplo, detenemos la propagación de mi botón.
+
+01:12:33.000 --> 01:12:39.000
+Recuerden cuenta, me lanzó 2 alertas. Sale Si yo le doy clic aquí.
+
+01:12:39.000 --> 01:12:40.000
+A es correcto, pero ahora, si lo duplica, el botón.
+
+01:12:40.000 --> 01:12:43.000
+Okay,
+
+01:12:43.000 --> 01:12:50.000
+Es una pero ahorita. Yo detuve la propagación en el botón.
+
+01:12:50.000 --> 01:12:51.000
+Y cuántos?
+
+01:12:51.000 --> 01:12:54.000
+No matter if you're at CNN, It's good.
+
+01:12:54.000 --> 01:13:08.000
+Ah, sí, sí, claro. Sí, sí, El asunto aquí es que, como a nivel de evento viene un tipo, hoy vamos a ver el evento a nivel control, viene un.
+
+01:13:08.000 --> 01:13:19.000
+Los elementos ya tienen que tienen que tienen registrados ciertos díenes. Por ejemplo, mi botón tiene registrado un evento unisener hacia el evento clic y mi Body.
+
+01:13:19.000 --> 01:13:42.000
+También cuando se suelta el evento se dispara, se esparce si le llega a los elementos y de repente por azares del destino, también están usando Click van a detonarse porque así funciona o sea ellos escucharon algo ha escuchado un clic Vale, yo también me ejecuto en para evitar efectos secundarios o efectos que yo no estoy esperando mejor lo que hago es detenerlo.
+
+01:13:42.000 --> 01:14:10.000
+Los de los diagnósticos de tengo su propagación más. No tengo tengo su propagación. Entonces el evento solamente se va a escuchar dónde, en donde a donde el nodo al modo le sucedió, es decir, si yo detengo el evento solamente el botón, lo escuchó si yo no detengo el evento todo el documento lo escucho y si por azares del destino también algunos elementos que va entre su camino
+
+01:14:10.000 --> 01:14:17.000
+escuchó el clip. Vale, yo te me voy a. Me voy a ejecutar porque así funcionan los eventos.
+
+01:14:17.000 --> 01:14:28.000
+Por eso esto propagation de alguna manera ayuda a evitar ciertos comportamientos que no estamos esperando nosotros.
+
+01:14:28.000 --> 01:14:29.000
+Okay.
+
+01:14:29.000 --> 01:14:46.000
+Como por ejemplo, ahorita, Sí, nada más para terminar el ejemplo. Si yo le doy clic, el botón y ya no salió el del body, sólo salió el del botón, vale entonces para eso nos sirve el Stoppaville.
+
+01:14:46.000 --> 01:14:55.000
+Vale. Ahora, sí. Veamos este al evento. ¿Sí?
+
+01:14:55.000 --> 01:14:56.000
+Dime.
+
+01:14:56.000 --> 01:15:04.000
+Nanamas, are you, It's, Lao-pongo in a stop propagation.
+
+01:15:04.000 --> 01:15:05.000
+Hello, so seventh.
+
+01:15:05.000 --> 01:15:12.000
+A todos, No, sí, no tú solamente de tienes donde tú requieres, que no se propague.
+
+01:15:12.000 --> 01:15:17.000
+Okay.
+
+01:15:17.000 --> 01:15:18.000
+Okay.
+
+01:15:18.000 --> 01:15:23.000
+Sí, O sea, tú le vas a decir tú vas a controlar qué tiene que hacer el evento y en dónde exacto, si es necesaria, no siempre la detiene, no siempre es necesario.
+
+01:15:23.000 --> 01:15:24.000
+Okay.
+
+01:15:24.000 --> 01:15:46.000
+Solamente cuando de repente te encuentres, por ejemplo, con este asunto en el que el body y algún algún elemento escuchan el Mismobel, No te conviene, porque si no va a ser otras cosas y tú lo que requiere nada, más es cuando mi nodo escuche este evento hasta si mi Body o cualquier otro elemento escucha el mismo lo hará Pero cuando suceda, cuando realmente yo dispara el evento
+
+01:15:46.000 --> 01:15:52.000
+sobre lodo, ¿no? Cuando los disparé sobre otro, vamos Bien, acá.
+
+01:15:52.000 --> 01:15:53.000
+See.
+
+01:15:53.000 --> 01:16:03.000
+Muy bien, entonces ya vimos esta parte de aquí. Voy a comentar tantito estos de acá porque no me sirvieron para lo del spa propation.
+
+01:16:03.000 --> 01:16:08.000
+Voy a comentartetito también el botón. Y ahora sí vamos a ver qué tiene nuestro evento.
+
+01:16:08.000 --> 01:16:17.000
+Entonces hacemos un lo y vamos a.
+
+01:16:17.000 --> 01:16:39.000
+Veas que tiene nuestro reto. Entonces recargamos, recordemos que, como el clic va a ser sobre nuestro formulario, lo vamos a detener listo pero aquí, como tal ya se vio un evento vamos a ver qué tiene Entonces, vemos que por ejemplo, nos dice, de qué tipo es este pequeño este pequeño primer Street.
+
+01:16:39.000 --> 01:16:46.000
+No dice de qué tipo hace. Y si nos damos cuenta, así, es de tipo submi, porque aquí lo nosotros lo declaramos. Queríamos escucharnos.
+
+01:16:46.000 --> 01:16:49.000
+Obviamente sí, claro. Aquí está. Es un sur. M.
+
+01:16:49.000 --> 01:17:15.000
+Luego, ¿qué tiene, por ejemplo, tiene el tipe que si nosotros consoliáramos lo que tiene el evento de clic del botón, vamos a darnos cuenta que en el tipe va a venir clic y este tike sirve a los thyssen para de alguna manera detectar pues que estoy escuchando vale el timestar es en el momento en el que sucedió no es cierto creo que es lo que duró
+
+01:17:15.000 --> 01:17:25.000
+lo que duró el taller es literal, el evento, perdón es el elemento al cual el cual fue objeto del evento, sale.
+
+01:17:25.000 --> 01:17:31.000
+Por ejemplo, aquí me está diciendo que realmente, quién fue el objeto del evento Ni siquiera fue el imputado.
+
+01:17:31.000 --> 01:17:39.000
+Fue el formulario. Sale. ¿Por qué? Porque, efectivamente, yo le agregué al formulario el evento.
+
+01:17:39.000 --> 01:17:44.000
+Por eso en el Target me viene como tal. Eso que el Target, el Target del evento, fue todo.
+
+01:17:44.000 --> 01:18:12.000
+Mi formulario, y es un miter. Ese es muy específico del de los formularios y necesariamente, quién fue aquel que disparó el submi El sol sedimen es exactamente lo mismo que tarde sale es el formulario pero es quien fue objeto del evento retó un válido también es muy parte de debe decir, algo así como si te va a regresar valores evento se da cuenta.
+
+01:18:12.000 --> 01:18:23.000
+El Folk Preventer fue activado, es decir, su comportamiento natural fue detenido sale cuando cancele Bol.
+
+01:18:23.000 --> 01:18:33.000
+Debe de ser esta parte del jugueo, entonces se está activa. Pero en realidad, si lo detuvimos está en.
+
+01:18:33.000 --> 01:18:54.000
+Y aquí debería decirnos que, pero bueno, sale el asunto es de que muchas propiedades de los eventos van van a depender de que del tipo de evento que nosotros estemos escuchando. Por ejemplo, si nosotros nos vamos a esta parte de acá.
+
+01:18:54.000 --> 01:18:58.000
+De acuerdo.
+
+01:18:58.000 --> 01:19:16.000
+Y no, Pero gracias el cargo. Y si le doy clic, pero me faltó.
+
+01:19:16.000 --> 01:19:20.000
+No existe.
+
+01:19:20.000 --> 01:19:30.000
+No está haciendo clic. Nos vamos a dar cuenta que el evento es distinto. Es un evento. Lo abro.
+
+01:19:30.000 --> 01:19:42.000
+Y si se dan cuenta, vienen un montónonal de propiedades diferentes a las del login, el shopping de venda más tiene estas el trick traye, un montón.
+
+01:19:42.000 --> 01:19:43.000
+You what?
+
+01:19:43.000 --> 01:19:53.000
+Nadie se dieron cuenta. Por ejemplo, si es bueno todo.
+
+01:19:53.000 --> 01:20:19.000
+Sí a ver. Bueno, entonces los eventos de puntero o de de de y padres diferentes, Por ejemplo, si es verificado si el bublero está en true y cancelamos el butleo así fue cancelado, el bucleo correcto, este las coordenadas.
+
+01:20:19.000 --> 01:20:27.000
+Xx del lugar donde fue sucediendo el evento y y.
+
+01:20:27.000 --> 01:20:42.000
+Estas líneas de, acá o sea, estas declaraciones Concienciar y Offsed, son las mismas el Perú, cuando puedo.
+
+01:20:42.000 --> 01:21:12.000
+Este? Bueno, las posiciones donde sucedió. ¿Qué tipo de evento de puntero fue las posiciones X. Este ¿Qué tipo fue lo que duró el Target, donde sucedió como tal, el evento trae un montón de propiedades, y cada tipo de evento me va a entregar diferente información sale eso es como tal el evento dudas con el Everest.
+
+01:21:16.000 --> 01:21:18.000
+No.
+
+01:21:18.000 --> 01:21:32.000
+A Ok, va. Bueno, vamos a tomarnos. Ahorita al receso, nos vemos.
+
+01:21:32.000 --> 01:21:33.000
+Okay.
+
+01:21:33.000 --> 01:21:38.000
+Medía Ocho, 40 sale entonces adelante. Este grupo nos llamamos ahorita. Ocho, 40, Vale.
+
+01:21:38.000 --> 01:21:56.000
+Entonces déjeme y vamos a.
+
+01:21:56.000 --> 01:22:13.000
+Y sí, este a ver muy bien. Entonces nos quedamos en la parte de él de los eventos. ¿Vale?
+
+01:22:13.000 --> 01:22:22.000
+Entonces ya tenemos como tal el uso de los eventos. Ya vimos cómo funciona el evento. Vamos a continuar con la lógica.
+
+01:22:22.000 --> 01:22:30.000
+Vale dentro de los formularios, Nos vamos a dar cuenta que podemos acceder a los controles, salen.
+
+01:22:30.000 --> 01:22:43.000
+Por ejemplo, vamos a hacer un consolog, ya que tenemos acceso a diferentes cosas en el evento. Por ejemplo, podemos hacer uso de.
+
+01:22:43.000 --> 01:22:51.000
+Pues el por ejemplo.
+
+01:22:51.000 --> 01:23:05.000
+Y a la cola que viene, y el.
+
+01:23:05.000 --> 01:23:21.000
+Vamos a ver si podemos acceder, entonces vamos a ponerle. Y aquí vamos a ocupar, por ejemplo, event punto para ver obtener como tal.
+
+01:23:21.000 --> 01:23:31.000
+El elemento sale, entonces vamos a darle clic de recargamos, Recordemos que ya está detenido el evento.
+
+01:23:31.000 --> 01:23:40.000
+Y aquí está que está como tal. El formulario vale dentro del formulario. Podemos hacerlo directamente acá o en su defecto.
+
+01:23:40.000 --> 01:23:49.000
+Por ejemplo, sabemos, podemos hacer uso del formularios como tal. El modo, los 2 nos deben entregar exactamente los mismos valores, pero recordemos que ya tenemos a partir del como tal el evento, el uso del taller, pues yo diría que fuera, más cómodo que fuera más fuera necesario ocupar el tag directamente del evento vale entonces creo que acá.
+
+01:23:49.000 --> 01:24:10.000
+Podemos hacer uso del baño. No sé si es cierto.
+
+01:24:10.000 --> 01:24:14.000
+Descargamos.
+
+01:24:14.000 --> 01:24:44.000
+Ah, sí.
+
+01:24:47.000 --> 01:25:09.000
+Y en.
+
+01:25:09.000 --> 01:25:18.000
+Y en.
+
+01:25:18.000 --> 01:25:38.000
+No me gusta.
+
+01:25:38.000 --> 01:26:08.000
+Perdón, perdón.
+
+01:26:13.000 --> 01:26:31.000
+Listo, perdón, grupos a ver si mi perro no anda la del Entonces, si hay una manera de poder obtener los datos del si no lo que podemos hacer.
+
+01:26:31.000 --> 01:27:01.000
+Yo creo que podemos obtenerlo de los vale, pero recordemos que al tener acceso a el formulario, o sea, como tal, laventarge, podemos hacer selecciones hacia un nodo o sea podemos hacer selecciones, a un modo como lo haríamos por ejemplo, con un documental, por qué podemos hacer eso porque al fin y al cabo, dentro tenemos más nodos o si ustedes recuerdan qué propiedad del nodo me permite saber si
+
+01:27:07.000 --> 01:27:17.000
+tengo más elementos dentro. ¿Alguien recuerda?
+
+01:27:17.000 --> 01:27:19.000
+For a 7 college element also.
+
+01:27:19.000 --> 01:27:26.000
+Aja sin saber si tiene y cuáles son.
+
+01:27:26.000 --> 01:27:29.000
+At least? No.
+
+01:27:29.000 --> 01:27:38.000
+No vas.
+
+01:27:38.000 --> 01:27:43.000
+A la el children.
+
+01:27:43.000 --> 01:27:45.000
+You're here.
+
+01:27:45.000 --> 01:27:54.000
+Recuerden que la propiedad Children nos va a regresar.
+
+01:27:54.000 --> 01:28:08.000
+Nos va a regresar todos los elementos de contenga, por ejemplo, con sol vamos a poner y vamos a entrar otra vez, aven punto.
+
+01:28:08.000 --> 01:28:16.000
+Target Chile. Entonces otra vez.
+
+01:28:16.000 --> 01:28:19.000
+So, and, and, I know.
+
+01:28:19.000 --> 01:28:28.000
+Que tendría no es correcto. Entonces recargamos por ejemplo, voy a dar el login, y aquí nos vamos a encontrar con que tenemos Html College.
+
+01:28:28.000 --> 01:28:36.000
+Sale. Tenemos layballs inputlable. ¿Vale? Vamos. Bien, acá.
+
+01:28:36.000 --> 01:28:38.000
+Same.
+
+01:28:38.000 --> 01:28:46.000
+Sí. Muy bien. Ahora, si se dan cuenta, también vienen 2 elementos extras. Viene el paz y viene el user.
+
+01:28:46.000 --> 01:29:01.000
+Sale Estos inputs son exactamente los mismos de acá. Pero al tener un viven fuera de, es decir, yo puedo hacer punto pasto.
+
+01:29:01.000 --> 01:29:05.000
+Vamos a ver que nos regresa a esto.
+
+01:29:05.000 --> 01:29:11.000
+Listo! Listo. Y aquí está el avión. Es el input.
+
+01:29:11.000 --> 01:29:23.000
+Todo esto a raíz, Aunque sabe hecho tema de colección que son la lista. Al tener este un Ne, el atributo nate.
+
+01:29:23.000 --> 01:29:33.000
+Pero permite ser seleccionado de la misma manera. Si fuera un tipo de objeto, vamos bien, acá.
+
+01:29:33.000 --> 01:29:34.000
+See.
+
+01:29:34.000 --> 01:29:43.000
+Sí. Entonces, si recordamos acá.
+
+01:29:43.000 --> 01:29:52.000
+Descargamos, sabes, entonces el Html Colection tiene 5 elementos. Y es correcto. Si vamos a nuestro maquetador, vamos a tener 1, 2, 3, 4 y 5.
+
+01:29:52.000 --> 01:30:20.000
+Sale, vamos bien, acá 5 elementos. Pero al tener como tal algunos elementos, el atributo nate, lo que va a hacer también es poderlo reconocer o poder ser accedidos por ese nene por ejemplo, vamos a hacer un experimento qué pasa si al ego le agregamos un leiball 1.
+
+01:30:20.000 --> 01:30:32.000
+De recargamos. Y si yo le doy clic, debería de leybull. Uno sale entonces el neil de alguna manera me permite poder.
+
+01:30:32.000 --> 01:30:46.000
+Ahora, sí, este poder poder hacer un tipo de extracción de Html Colection A partir del propio vamos bien acá.
+
+01:30:46.000 --> 01:30:53.000
+And to says, I look, about, but, is, a, a, It's the Los Alamos and the novel.
+
+01:30:53.000 --> 01:30:58.000
+Yeah.
+
+01:30:58.000 --> 01:30:59.000
+Okay.
+
+01:30:59.000 --> 01:31:07.000
+Si fuera así, exacto, un hecho Tembléction Es más, sirve, te dice este hecho también. Colección tiene 5, aunque tú listados de 7.
+
+01:31:07.000 --> 01:31:22.000
+Huh.
+
+01:31:22.000 --> 01:31:23.000
+Yeah.
+
+01:31:23.000 --> 01:31:29.000
+Pero al fin y al cabo, ya es más comportamiento del factor por 7 ml collection en el cual, si te lista que tiene 5, elementos, un Labor nefas voleibol nipoo y el motor van al input de tipo súbito pero aparte te los está entregando por el hecho de tener un nate como con ese Nene no es de que se
+
+01:31:29.000 --> 01:31:30.000
+Okay. Yeah.
+
+01:31:30.000 --> 01:31:47.000
+dupliquen ya tenga 7, sino que más bien puedes obtenerlos con la posición en específico o con el main que tiene.
+
+01:31:47.000 --> 01:31:48.000
+No, no.
+
+01:31:48.000 --> 01:31:50.000
+Yeah, you know, not the finn, Quality, and input, for, Blatim, is upon those input the pass user, Peronomic, Phoenix, to implement them, and you can add those those inputs.
+
+01:31:50.000 --> 01:32:01.000
+Good. Okay. Okay.
+
+01:32:01.000 --> 01:32:12.000
+Huh.
+
+01:32:12.000 --> 01:32:13.000
+Huh.
+
+01:32:13.000 --> 01:32:17.000
+Es correcto? Sí, es correcto No es del que te diga que este es el mismo de acá no es una manera de acceder de una manera distinta, pero si te das cuenta, este es el mismo, que este ah, no pero este es este es el mismo que este disco este es el mismo que este y es más si nosotros abrimos este input y buscamos su tributo, neil vamos, a dar cuenta, que es fácil.
+
+01:32:17.000 --> 01:32:18.000
+I.
+
+01:32:18.000 --> 01:32:23.000
+Vale. Solamente es una manera distinta del poder acceder al elemento. Es una manera más. Sale muy bien.
+
+01:32:23.000 --> 01:32:28.000
+Okay. Okay.
+
+01:32:28.000 --> 01:32:35.000
+Ahora como tal, ya pudimos ver que tenemos acceso. Entonces al pass y al user para poder que hacer un lo in exitoso.
+
+01:32:35.000 --> 01:32:53.000
+Entonces yo aquí puedo tomar punto Josep. Entonces lo que vamos a hacer ahora es guardar los valores en 2 variables para que para poderlos ocupar después equipo. Puedo meter el Uss data.
+
+01:32:53.000 --> 01:33:01.000
+Que va a venir específicamente de acá.
+
+01:33:01.000 --> 01:33:08.000
+Y el pasta nos puedo llamar como yo, como yo quiera. Vale, ahí. No hay problema.
+
+01:33:08.000 --> 01:33:12.000
+So, and, and, Lalima, in, 10, Oser.
+
+01:33:12.000 --> 01:33:16.000
+Sí, Sí, pero sus patrones. Ahí está. Sale. Estamos bien.
+
+01:33:16.000 --> 01:33:18.000
+Estamos viendo acá.
+
+01:33:18.000 --> 01:33:29.000
+Muy bien. Ahora vamos a generar una pequeña base de datos para poder hacer un logo incorrecto. Entonces vamos a generarnos aquí una pequeña carpeta que se llame.
+
+01:33:29.000 --> 01:33:37.000
+Vamos a llamar fies este útil, la puede llamar también, como quieran. Y aquí dentro vamos a generar una base de datos Pota.
+
+01:33:37.000 --> 01:34:06.000
+S: Pues Muy bien, ¿cómo ¿Qué es una base de datos? Bueno, pues es un compendio de información y principalmente es un copiloto de formación organizada por diferentes tipos, por lo regular las bases de datos lleguen a ser de un tipo de llamamos relacionadas no se preocupen ese tema lo tendrán que ver del lado de este backen fundamentas o directamente ya sobre lo que sería Eso vale no voy
+
+01:34:06.000 --> 01:34:35.000
+a meter tanto. No voy a indagar tanto, pero de alguna manera nosotros podemos hacer un proceso que le conocemos como Mooc, que es el es información que de alguna manera me permite poder generar cierta funcionalidad, este pues para poder realizar todo mi proceso sale mimócrata que en este caso estaba bien de la base de datos van a ser unos pequeños objetos que van a tener información del usuario sale es como si yo
+
+01:34:35.000 --> 01:34:59.000
+en algún momento, al momento de darle lobby, lo que haría fuera, conectarse a un servidor tomar cuando buscar en la base de datos a partir de mi Password y usar y decirme si existe y entregarme cierta información nosotros lo que vamos a hacer es emular o de alguna manera, pues si emular ese proceso de irme al servidor cosa que no voy a hacer pero si voy a hacerlo a partir de
+
+01:34:59.000 --> 01:35:04.000
+mi archivo hace datos. Mi chiquito. Base de datos es este punto en el cual está mi server. Y aquí está mi base. Datos.
+
+01:35:04.000 --> 01:35:13.000
+Mi archivito es como si tuviera acceso a esta enorme base de datos, cosa que, pues luego podemos ir generando para poder hacer más funcionalidades, ¿vale?
+
+01:35:13.000 --> 01:35:37.000
+Pero de alguna manera, lo que vamos a ver simular es eso es si fueran directamente al servidor en el servidor kosotada en la base, actos, buscaran por usuario y contraseñas un usuario y nos tiene que regresar 2 respuestas que si existe y está loado o que no existe bueno más bien que no exista que sería el primero y el segundo si existe pero tal vez cualquiera de los datos este
+
+01:35:37.000 --> 01:35:43.000
+error también. Una muy bien. Acá.
+
+01:35:43.000 --> 01:35:45.000
+See.
+
+01:35:45.000 --> 01:35:55.000
+Muy bien, entonces vamos a generar, o vamos imaginarnos como si no sea más datos. Hoy te vamos a llamar usuarios.
+
+01:35:55.000 --> 01:36:22.000
+Por lo regular una base de datos es considerada una lista o un arreglo. Recordemos que los arreglos que son es un conjunto de datos ordenados y pueden contener dentro cualquier tipo de dato arreglos objetos strings números nursum the fines boullianos, lo que nosotros queramos verdad se puede igualar en una red vamos Bien, acá.
+
+01:36:22.000 --> 01:36:23.000
+See.
+
+01:36:23.000 --> 01:36:33.000
+Muy bien, vamos a generar unos pequeños objetos que van a ser como tal. Estos registros. En mi base datos, por ejemplo, vamos a definir una pequeña estructura.
+
+01:36:33.000 --> 01:36:44.000
+Tenemos el user, que sería el usuario que vamos a buscar. Vamos a tener una password que va a ser como tal un password.
+
+01:36:44.000 --> 01:36:46.000
+Voy a tener un nombre.
+
+01:36:46.000 --> 01:36:59.000
+Voy a tener un le llamamos este apodo. Bueno, se llama
+
+01:36:59.000 --> 01:37:08.000
+Y vamos a tener data. Va a ser otro objeto que ahorita. Vamos a ir definiendo poco a poco.
+
+01:37:08.000 --> 01:37:22.000
+Vale con esta pequeña estructura. Yo voy a generar algunos datos. Vamos a generar 3 osorios porque no hagamos, vamos a llamar user, Vamos a llamarle pedrito.
+
+01:37:22.000 --> 01:37:29.000
+La paz. Uno, 2, 6, 4, 5, 6, para que no se me olvide. El nombre va a ser Pedro.
+
+01:37:29.000 --> 01:37:34.000
+Ah, pero el apodo pelito. ¿Por qué no?
+
+01:37:34.000 --> 01:37:44.000
+Y la lata te vas a dejar vaciar. Vale, vamos a generar. Segundo, vamos a llamarle gama, su password va a ser 6, 5, 4, 3, 2, 1 para que nos dígame, sí.
+
+01:37:44.000 --> 01:37:53.000
+Do you do that? . That
+
+01:37:53.000 --> 01:37:58.000
+Y y.
+
+01:37:58.000 --> 01:38:06.000
+Okay. The, yeah, America, don't know. Okay.
+
+01:38:06.000 --> 01:38:17.000
+Y Ok, Bien. Muy interesante. Pregunta: cuando tú haces una búsqueda a ti, te tú vas a buscar por algún dato en específico.
+
+01:38:17.000 --> 01:38:25.000
+Imaginemos que tenemos tenemos. Tenemos una escuela. En realidad sale. Y yo lo que quiero buscar es a un alumno.
+
+01:38:25.000 --> 01:38:52.000
+Pero lo quiero buscar por su matrícula, por su matrícula. Si nosotros ahorita, vamos a hacer una búsqueda, de un usuario, vamos a buscarlo por el user y el password y no por el apodo, aunque tenga el mismo dato o el mismo valor no significa que al momento de yo hacer mi búsqueda lo busque por el apodo, porque porque realmente no suelen estar pidiendo los datos el
+
+01:38:52.000 --> 01:38:54.000
+user. Y el Pascua.
+
+01:38:54.000 --> 01:38:55.000
+Okay.
+
+01:38:55.000 --> 01:39:17.000
+Sí, Sí, no, no, no. Y aunque estuvieran repetidos todos tendrían el mismo dato. Tú, al final lo que haces es estructurar bien.
+
+01:39:17.000 --> 01:39:18.000
+Okay.
+
+01:39:18.000 --> 01:39:29.000
+¿Cómo vas a generar tus búsquedas? Tienes un montón. Digamos que tienes un diccionario de campos a buscar Entonces ahí tú vas a elegir cómo hacer tus búsquedas cuando lleguen esta parte de base de datos van a conocer lo que llamamos consultas y Bueno, dependiendo la tecnología en la que vayan a trabajar pues es la manera en generar consultas sale pero ahorita sí, si deben de pensar
+
+01:39:29.000 --> 01:39:33.000
+Okay.
+
+01:39:33.000 --> 01:39:45.000
+bien. Le llamamos Arquitectura de información. Es el punto en el cual los datos, la manera en la que capturamos el sitio es, en teoría, como deberíamos ir generando la lógica.
+
+01:39:45.000 --> 01:40:12.000
+Sale. Por ejemplo, los datos marcan mucho la manera en que se va a ver. Por ejemplo, una vista o cómo se va a ir el usuario a través de la página o el sitio de la aplicación o de la plataforma sale en ocasiones manual viene en ocasiones mucho de la manera en la cual el famoso juguex o hasta el yo se rigen a partir de los propios datos Entonces dependiendo los datos que tengamos
+
+01:40:12.000 --> 01:40:23.000
+nosotros es la información que podríamos mostrar. El usuario Es la información que podría modificar, y es los posibles módulos o apartados que le podemos mostrar.
+
+01:40:23.000 --> 01:40:34.000
+Entonces la información de alguna manera rige la experiencia del usuario vale. Nos vamos bien, acá.
+
+01:40:34.000 --> 01:40:37.000
+See.
+
+01:40:37.000 --> 01:40:41.000
+Va perfecto, el apodo. Le.
+
+01:40:41.000 --> 01:40:56.000
+Este Malandra. Y tenemos y David, vamos a de inmediato su password.
+
+01:40:56.000 --> 01:41:07.000
+Más grande que es en estos. Su nombre. Es David. Y vamos a poner.
+
+01:41:07.000 --> 01:41:12.000
+Bueno, este no tiene apóstoles para que tengamos diferentes maneras de trabajar. Listo. Vale, entonces ya tenemos una pequeña, una pequeña estructura.
+
+01:41:12.000 --> 01:41:42.000
+Tenemos datos con que trabajar lo primero que hay que hacer es conectarlo al documento para que no nos pase lo que nos pasó hace rato, siempre siempre que vayan a conectar archivos de datos por lo regular va al principio o sea va antes de los Streets que tienen lógica por qué porque si nosotros recordamos cómo es que de alguna manera el intérprete del navegador va
+
+01:41:45.000 --> 01:41:57.000
+leyendo va a ir de arriba hacia abajo, es decir, si por azares del destino, llega primero mail y luego base datos, y busca algún algo algo en el archivo de base de datos como este.
+
+01:41:57.000 --> 01:42:24.000
+Llegó primero, no lo va a encontrar. Entonces te va a marcar error al momento de ejecutarse. Entonces, por lo regular los archivos y Van en Orden en orden de dependencia, el que menos tiene dependencia con los otros archivos Ah, el archivo que tiene más dependencia. Con los demás se entiende esa parte.
+
+01:42:24.000 --> 01:42:27.000
+Qatar base prefer.
+
+01:42:27.000 --> 01:42:34.000
+El orden en que nuestros scripts van a llegar o se van a ir registrando en el documento es el que menos tenga dependencia.
+
+01:42:34.000 --> 01:42:45.000
+Con otros archivos, al que más tenga dependencia con los demás archivos. Vamos a ponerlo en. Vamos a hacerlo más gráfico.
+
+01:42:45.000 --> 01:42:51.000
+Pregunta. El archivo Bdd requiere al Archivo Main.
+
+01:42:51.000 --> 01:42:53.000
+O va a?
+
+01:42:53.000 --> 01:42:55.000
+No. No.
+
+01:42:55.000 --> 01:43:04.000
+Pues yo no veo que lo ocupe. Pregunta el archivo Main va a ocupar el archivo base de datos.
+
+01:43:04.000 --> 01:43:06.000
+See
+
+01:43:06.000 --> 01:43:09.000
+Es correcto, Entonces, ¿quién tiene menor dependencia?
+
+01:43:09.000 --> 01:43:10.000
+Very.
+
+01:43:10.000 --> 01:43:12.000
+Que tiene mayor dependencia.
+
+01:43:12.000 --> 01:43:14.000
+Many.
+
+01:43:14.000 --> 01:43:24.000
+Exactamente entonces por lo regular el que tiene menor dependencia va hacia arriba y el que tiene mayor dependencia va abajo, sale va que va perfecto.
+
+01:43:24.000 --> 01:43:26.000
+Okay.
+
+01:43:26.000 --> 01:43:27.000
+Entonces, Ahora, sí, aquí como tal, conectamos nuestro chiquito y listo, ya puede ser ocupado en toda la aplicación.
+
+01:43:27.000 --> 01:43:45.000
+Muy bien, vamos a generar una función, sale, Ya hemos ocupado funciones anónimas, pero esta función va a ser nombrada.
+
+01:43:45.000 --> 01:43:55.000
+¿Cuál es la diferencia? O, más bien, por qué se le llama nombrada? ¿Vamos a generarla en otros chiritos Vamos a llamarla Kim Urtis y se va a llamar funciones.
+
+01:43:55.000 --> 01:44:08.000
+Funciones. Punto: una función nombrada es una función que, al momento de ser declarada, no tiene.
+
+01:44:08.000 --> 01:44:32.000
+Esto es una punción nombrada, porque porque yo la voy a poder invocar a partir del nombre con la que la haya declarado a comparación. Por ejemplo, de una función anónima, porque una función anónima, no tiene un nombre al principio de ser declarado, sale vamos bien acá.
+
+01:44:32.000 --> 01:45:00.000
+Muy bien. Entonces vamos a generar la función blogging. La función móvil va a tener el objetivo de validar que las que mis credenciales, o sea, mi usuario, en mi contraseña una existen en la base de datos y 2 sean correctas ese es el objetivo de luz Entonces, con esto que les acaba de decir ¿qué debería.
+
+01:45:00.000 --> 01:45:01.000
+Recibir, recibir recibir como parámetros.
+
+01:45:01.000 --> 01:45:09.000
+The city. William I'm not And.
+
+01:45:09.000 --> 01:45:13.000
+Ok. Entonces, ¿qué información debería de recibir?
+
+01:45:13.000 --> 01:45:27.000
+Okay.
+
+01:45:27.000 --> 01:45:28.000
+Okay.
+
+01:45:28.000 --> 01:45:37.000
+Ok, Yo creo que ¿cómo lo puedo poner en a exacto? Bueno, como dice Ana User y Password, es decir, ¿qué información debería recibir el usuario y la contraseña de lo que el usuario colocó vale vamos Bien, acá.
+
+01:45:37.000 --> 01:45:38.000
+.
+
+01:45:38.000 --> 01:45:44.000
+Ahora recordemos cuando nosotros ocupamos parámetros en las funciones, esos nombres de parámetros, por ejemplo.
+
+01:45:44.000 --> 01:46:02.000
+Les pongo que user y paz son muy diferentes que cualquier variable que exista en toda la aplicación sale estos parámetros solamente se van a poder ocupar y tiene una función.
+
+01:46:02.000 --> 01:46:06.000
+Sale, vamos. Bien, acá.
+
+01:46:06.000 --> 01:46:07.000
+See.
+
+01:46:07.000 --> 01:46:24.000
+Y, además, en el orden en que los colocaron es como deberían enviarse los datos. Por ejemplo, si yo estoy diciendo qué información debería llegar primero cuando invocó la función.
+
+01:46:24.000 --> 01:46:31.000
+And.
+
+01:46:31.000 --> 01:46:32.000
+That's another thing.
+
+01:46:32.000 --> 01:46:45.000
+El string del usuario correcto. Y si yo puse después paz el password, pues que debería llegar como segundo parámetro cuando invoque la función la contraseña sale en el orden en que ustedes registran los parámetros es en el orden en que deberían enviar los datos por eso es que los parámetros de alguna manera tiene un nombre descriptivo para que
+
+01:46:45.000 --> 01:46:51.000
+tú sepas que debes de enviar, vamos Bien, acá.
+
+01:46:51.000 --> 01:46:52.000
+Okay.
+
+01:46:52.000 --> 01:46:56.000
+Muy bien. Entonces.
+
+01:46:56.000 --> 01:47:13.000
+Cuando yo le dé click a mi pequeño formulario, primero debo de validar que tanto el user como el Pascua existan, es decir, que el usuario no haya dejado en blanco los datos.
+
+01:47:13.000 --> 01:47:34.000
+Ya tenemos acceso a los controles. Recordemos que los controles son cada elemento que vive en cada elemento interactivo que vive en el formulario sale en este caso Tenemos 3 elementos interactivos en el usuario en el formulario este input que va hacia el usuario este input que debería decir contraseña.
+
+01:47:34.000 --> 01:47:40.000
+Este estamos.
+
+01:47:40.000 --> 01:47:51.000
+Y mi botoncito que pues dice lo vale de alguna manera. Los que a mí ahorita para mi funcionalidad Lo que me interesan sería este info de aquí y este imputado.
+
+01:47:51.000 --> 01:48:02.000
+Entonces lo primero que tenemos que hacer es validar que el usuario haya o haya dejado datos en esas cajitas.
+
+01:48:02.000 --> 01:48:17.000
+¿Cómo podemos validar esa parte? ¿Qué estructura de control podemos ocupar?
+
+01:48:17.000 --> 01:48:25.000
+Correcto. Jesús elige. Sale. Entonces, ¿cómo quedaría nuestra condición?
+
+01:48:25.000 --> 01:48:39.000
+Solamente hay 2 cosas que podemos validar: el usuario. He dejado datos o que el usuario no hayan dejado datos, vale o que nos haya dejado un dato dejo el usuario con la contraseña o puso la contraseña inusual.
+
+01:48:39.000 --> 01:48:59.000
+Sale? ¿Cuál es nuestra condición? Que ambos datos, ambos datos hayan sido llenados? ¿Sale Entonces, ¿cómo quedaría para validar eso?
+
+01:48:59.000 --> 01:49:16.000
+Bueno, les doy una pista. Ya me dijeron que a mí, qué más.
+
+01:49:16.000 --> 01:49:18.000
+Jugado a la otra pista. User Ajá Perdón.
+
+01:49:18.000 --> 01:49:31.000
+I mean, Okay. Can I produce the leaf? By leaving, Gilbert Dalton's Winston and Lacatia, US. Tuareo, S.
+
+01:49:31.000 --> 01:49:32.000
+And in Violence.
+
+01:49:32.000 --> 01:49:42.000
+A goo tantito mientras todavía nos falta. Primero, primero tenemos que variar que los datos que dejó las cajitas no sean cadenas vacías.
+
+01:49:42.000 --> 01:49:45.000
+Es el primer paso.
+
+01:49:45.000 --> 01:49:55.000
+¿Cómo hacemos esa condición? ¿Cómo validamos que lo que pusieron en las sajitas realmente tenga texto?
+
+01:49:55.000 --> 01:49:56.000
+Cecilia Peretta Devasio or the CERTLE.
+
+01:49:56.000 --> 01:49:57.000
+Good. No.
+
+01:49:57.000 --> 01:50:01.000
+Perdón otra vez otra vez.
+
+01:50:01.000 --> 01:50:03.000
+Yes.
+
+01:50:03.000 --> 01:50:06.000
+Aja, ¿Correcto? Pero ¿qué tiene que ser diferente, vacío?
+
+01:50:06.000 --> 01:50:09.000
+And.
+
+01:50:09.000 --> 01:50:16.000
+Con correcto. En dónde están guardados esos valores.
+
+01:50:16.000 --> 01:50:22.000
+And by then, no?
+
+01:50:22.000 --> 01:50:23.000
+Okay, okay. Okay.
+
+01:50:23.000 --> 01:50:29.000
+Aquí. No ahorita. Estamos a nivel de formulario. Estamos interactuando a nivel de formulario, entonces nosotros tenemos ya ya hicimos.
+
+01:50:29.000 --> 01:50:30.000
+I, you, that.
+
+01:50:30.000 --> 01:50:39.000
+Ya obtuvimos 2 elementos: user y paso exacto. Entonces, y un S tiene que ser que me habéis dicho diferente, ¿verdad?
+
+01:50:39.000 --> 01:50:54.000
+Different.
+
+01:50:54.000 --> 01:50:55.000
+P. Okay.
+
+01:50:55.000 --> 01:51:00.000
+A. Ya tenemos una colisión, nos falta la otra. Pero recuerden, los 2 tienen que tener a Ok.
+
+01:51:00.000 --> 01:51:04.000
+He passed data.
+
+01:51:04.000 --> 01:51:05.000
+Ajá.
+
+01:51:05.000 --> 01:51:08.000
+Javi Perende. Debussy.
+
+01:51:08.000 --> 01:51:23.000
+Correcto. Muy bien. Entonces aquí nosotros ya estaríamos invocando al ovni correcto que Login es esta parte de acá.
+
+01:51:23.000 --> 01:51:24.000
+Not.
+
+01:51:24.000 --> 01:51:25.000
+And.
+
+01:51:25.000 --> 01:51:40.000
+Pero ¿qué pasa si el usuario no colocó algo? Tenemos que mandarle. Le llamamos correcto. Podemos ocupar álex, podemos ocupar modales de alguna librería como gustap o hasta podemos nosotros en generar un pequeño mensaje a nivel de documento también se puede y es completamente correcto.
+
+01:51:40.000 --> 01:51:47.000
+Qué quieren ocupar? Albert? Bueno, el aler del navegador, o podemos podemos meter búsquedas, pues vamos a llegar más tiempo.
+
+01:51:47.000 --> 01:51:54.000
+Vamos a ver, te queda para o meter un mensaje directamente en el documento, cuál quieren ocupar.
+
+01:51:54.000 --> 01:51:56.000
+Okay.
+
+01:51:56.000 --> 01:52:02.000
+Ok, perfecto. Entonces, para generar eso.
+
+01:52:02.000 --> 01:52:13.000
+Lo que vamos a hacer es generar una nueva función. ¿Por qué funciones? Porque recuerden que el objetivo principal de una función es ejecutar un código tantas veces Yo lo necesito.
+
+01:52:13.000 --> 01:52:37.000
+Sale, podríamos nosotros colocar aquí está el código aquí directamente, de app final. Necesito que metes el mensaje, pero por lo regular es mejor englobarlo en encapsularlo en una función porque me va a permitir tal vez después reutilizar ese mismo código en otra parte sale Entonces ahorita vamos a construir una función.
+
+01:52:37.000 --> 01:52:48.000
+Que me envíe ese mensaje, nos vamos a meter un función. Se llame mensaje. Error.
+
+01:52:48.000 --> 01:53:09.000
+Y si ustedes recuerdan, nosotros tenemos una manera de crear no todos, y luego incrustarlos en el documento. Recuerdan que métodos nos permite eso.
+
+01:53:09.000 --> 01:53:16.000
+Create elemento document create.
+
+01:53:16.000 --> 01:53:18.000
+Elemento. Créeme, es un método del documento, porque lo que me permite es crear nodos.
+
+01:53:18.000 --> 01:53:19.000
+Válidos, de Html 5. ¿A qué me refiero? Con todos válidos de Html?
+
+01:53:19.000 --> 01:53:34.000
+Cinco. H: Uno. Ps: formularios, botones inputs, hectáreas, vídeo, audio.
+
+01:53:34.000 --> 01:54:04.000
+Lo que a mí se me antoje. Yo lo puedo crear con este elemento. ¿Qué es lo que me pide Como tal, el pri elemento principalmente un este un parámetro. La etiqueta del elemento ha creado a ahorita vamos a crear un pez para mandar aquí nuestro pequeño mensaje de y te faltó o sea nos falta Entonces vamos ahorita vamos a comentar de nuevo nuestro pequeño botoncito.
+
+01:54:05.000 --> 01:54:27.000
+Y vamos a que no estoy. Acá Bueno, en realidad sería esto a esta. Y vamos a agregar en nuestro formulario un pequeño tif para que para incrustar nuestro mosquito sale le vamos a llamar aire.
+
+01:54:27.000 --> 01:54:30.000
+Mensajes ahorita. Vamos a ver por qué hicimos estos entonces con create elemento. Ya creamos un nodo.
+
+01:54:30.000 --> 01:54:46.000
+El nodo aún ni siquiera está en el documento. En nodo ahorita, vive virtualmente. Vamos a ir agregando las propiedades hasta que podamos, como tal incrustarlo.
+
+01:54:46.000 --> 01:54:56.000
+Como nosotros creemos un elemento. Tenemos que alojarlo por el momento, en algún espacio. Yo les recomiendo una variable.
+
+01:54:56.000 --> 01:55:24.000
+Por ejemplo, mensaje Ahí está, entonces este documento, este pequeño elemento que acabo de crearla está viviendo todavía memoria está alojado en esta variable y si se dan cuenta, es muy parecido a lo que nosotros hicimos con el géminis nosotros seleccionamos un nodo y lo alojamos en una variable para que nosotros después podamos hacer lo que nosotros necesitemos en este caso estamos haciendo algo
+
+01:55:24.000 --> 01:55:33.000
+un poquito diferente, creamos un elemento y lo estamos alojando en una variable para poder agregar propiedades y entrar en incrustarlo en el documental.
+
+01:55:33.000 --> 01:55:38.000
+Sale, vamos bien, aquí.
+
+01:55:38.000 --> 01:55:39.000
+See.
+
+01:55:39.000 --> 01:55:49.000
+Perfecto. Entonces, como es un modo mensaje, puede tener acceso a que creen a todas las propiedades y métodos de cualquier nodo.
+
+01:55:49.000 --> 01:56:01.000
+Por ejemplo, a devenir, y puedo, por ejemplo, entrar. Le llamamos flash list y poder agregarle o poder quitarle estilos.
+
+01:56:01.000 --> 01:56:07.000
+Puedo entrar a los estilos directamente y poder modificar el vago en color o el color.
+
+01:56:07.000 --> 01:56:15.000
+El fonsie. Sale, puedo hacer lo que yo quiera, porque recuerden, esto es un nodo válido de Html a ahorita.
+
+01:56:15.000 --> 01:56:45.000
+Lo que necesito es agregarle este contenido a un Pec, entonces punto debe de ser text complet, sale el text Content es un atributo de los nodos donde se guarda texto ahorita lo que le voy a decir, es pups os voy a mandar le voy a agregarle un texto encontramos inconsistencias, consistencias, inconsistencias, Vale.
+
+01:56:45.000 --> 01:57:15.000
+listo. Ahora necesito guardarlos. Necesito ya como tal, incrustarlo en el dónde lo vamos a incrustar en el área de mensajes que viven dentro del formulario para que cuando mi condición no se cumpla el mensaje aparezca en automático y aparezca en una misma área del formulario para que tenga sentido, que ese mensaje vive ahí o es parte de Entonces ¿qué vamos a hacer para que yo
+
+01:57:16.000 --> 01:57:27.000
+pueda modificar un tengo que hacer primero.
+
+01:57:27.000 --> 01:57:40.000
+Obtenerlo, o sea, hacer una selección. ¿Qué tipo de qué tipo de método voy a ocupar para poder obtener este nodo de ti?
+
+01:57:40.000 --> 01:57:44.000
+Tenemos 3.
+
+01:57:44.000 --> 01:57:50.000
+¿Qué elementos Myclassning? Quédent Elements, By Tachney o Kelly Le My?
+
+01:57:50.000 --> 01:57:51.000
+Bye.
+
+01:57:51.000 --> 01:57:59.000
+¿Cuál me ¿Correcto? Dale. Entonces, otra vez? Voy a generar una variable para poder guardar ese elemento.
+
+01:57:59.000 --> 01:58:11.000
+Lo voy a llamar y a mensajes, 2 documentos.
+
+01:58:11.000 --> 01:58:17.000
+Bye Bye. Y recuerden que Géminis.
+
+01:58:17.000 --> 01:58:18.000
+Hello.
+
+01:58:18.000 --> 01:58:26.000
+En 1 del aire, Entonces se llama, haya mensajes, área mensajes y listo. Ya tengo el modo. Ahora sí puedo.
+
+01:58:26.000 --> 01:58:34.000
+Por ejemplo, haría mensajes punto para poder agregar, y no 2 al documento. Lo puedo hacer de 2 maneras.
+
+01:58:34.000 --> 01:58:46.000
+Pueden costarlo directamente en el body, o pueden costarlo en algún modo en específico, ahorita.
+
+01:58:46.000 --> 01:59:16.000
+Lo que estoy haciendo es incrustarlo en el área mensajes para poder. Un nuevo nodo. A otro modo vamos a ocupar un método llamado Apple. El método append de los nodos es muy parecido al método push de un arreglo pregunta ¿Qué hace El método push de una red.
+
+01:59:17.000 --> 01:59:20.000
+Zubel.
+
+01:59:20.000 --> 01:59:22.000
+A dónde?
+
+01:59:22.000 --> 01:59:24.000
+Agrea.
+
+01:59:24.000 --> 01:59:33.000
+Correcto. Agrega un nuevo elemento al arreglo pregunta: ¿en qué posición queda ese elemento.
+
+01:59:33.000 --> 01:59:34.000
+Alfina.
+
+01:59:34.000 --> 01:59:59.000
+Al final, Apple va a ser exactamente lo mismo. Va a agregar el nuevo nudo al final de todos los hijos del nodo, si que no está vacío, va a quedar pues al principio si no tuviera 3 hijos ese nuevo nudo va a ser el cuarto hijo y así, me voy a ir concentrativamente dudas hasta acá.
+
+01:59:59.000 --> 02:00:00.000
+No.
+
+02:00:00.000 --> 02:00:09.000
+Muy bien. Entonces vamos a ocupar, ah, que está Apen o Appenchal. Creo que Apple Child es mejor.
+
+02:00:09.000 --> 02:00:19.000
+Appenchal? Bueno, Apple, lo que me permite es ocupar, y algo que lo conocemos como Html Street o String.
+
+02:00:19.000 --> 02:00:29.000
+Cach Tmel, que es un string Html, Imaginemos que tenemos cons y nos Y entonces yo aquí tengo esto.
+
+02:00:29.000 --> 02:00:41.000
+Input. Y aquí tengo, por ejemplo, un input de con una Id que dice: hola.
+
+02:00:41.000 --> 02:01:11.000
+Esto es un string html. Este maquetado, pero en un formato de string Apen, si se dan cuenta lo que me permite recibir una un arreglo de nodos o un string de nudos esto es un string de nodos, sale apen child lo único que recibe son nodos dale un modo en este caso como nosotros tenemos sólo un modo es mejor ocupar
+
+02:01:13.000 --> 02:01:21.000
+a pensar. Y al final, simplemente le digo mensaje, vamos bien.
+
+02:01:21.000 --> 02:01:22.000
+Team.
+
+02:01:22.000 --> 02:01:32.000
+Entonces, ¿qué es lo que va a ser el mensaje error? ¿Va a crear un nuevo, le va a agregar a su tenis content.
+
+02:01:32.000 --> 02:01:33.000
+Va a seleccionar área, mensajes y lo que va a colocar aquí es va a incrustar el pen en área mensajes.
+
+02:01:33.000 --> 02:01:49.000
+Sale. Ya tenemos la función. ¿Qué nos faltaría invocarlo? Un mensaje.
+
+02:01:49.000 --> 02:02:00.000
+Se llama el mensaje, No. Así mensajero. Listo. Vamos a hacer la prueba.
+
+02:02:00.000 --> 02:02:30.000
+Y mensaje error solamente va a colocarse cuando no se cumpla la función. Hay aquí pasó lo los vinos de y Ah, recuerden que Script, útils diagonal funciones su autor agregar listo ahora sí, a ver clic y por favor.
+
+02:02:36.000 --> 02:02:45.000
+No comer.
+
+02:02:45.000 --> 02:02:59.000
+No se está cumpliendo nuestra condición.
+
+02:02:59.000 --> 02:03:07.000
+¿Por qué no está cumpliendo esa condición también exagerado.
+
+02:03:07.000 --> 02:03:35.000
+A trick no se está cumpliendo nuestra condición.
+
+02:03:35.000 --> 02:03:48.000
+Puede ser que sí. Tienes todo el sentido. Ehh: tiene sentido. Lo que nos comenta este Jesús.
+
+02:03:48.000 --> 02:04:04.000
+Jesús. Él nos que yo ser data no es un string, es el y es correcto. Con solo vamos a poner, user data.
+
+02:04:04.000 --> 02:04:15.000
+User Dat sale que lo que está pasando aquí, que en realidad lo que estamos haciendo, Lo que estamos comparando es el nodo.
+
+02:04:15.000 --> 02:04:22.000
+No el valor hasta el momento, aquí solamente habíamos tenido acceso al nodo al nodo input.
+
+02:04:22.000 --> 02:04:48.000
+Qué nos falta la propiedad valio en un input Si se dan cuenta el atributo válido es el que lecetea el contenido, por ejemplo, para nuestro Input Tysonvic le colocamos logui y en lo que se ve y por ejemplo, nosotros de colocar a manos.
+
+02:04:48.000 --> 02:04:51.000
+Un valio.
+
+02:04:51.000 --> 02:05:20.000
+Descargamos y en lo que se va a ver, se va a ver en la cadena. Entonces con eso, nosotros identificamos que una tenemos que el control, pero otra nos faltaría ocupar o encontrar el atributo válido. Con esto Ahora sí, tenemos acceso al valor vamos bien, acá.
+
+02:05:20.000 --> 02:05:21.000
+See.
+
+02:05:21.000 --> 02:05:25.000
+Sí, sí se entendió esa parte.
+
+02:05:25.000 --> 02:05:30.000
+See that? Then And you said.
+
+02:05:30.000 --> 02:05:37.000
+Del control. Y eso exacto. Y eso vive en el atributo válido. Muy bien.
+
+02:05:37.000 --> 02:05:45.000
+Entonces la cosa apreciar así. No respeta nuestra condición. Nosotros damos clic, ahí está. Ya vieron.
+
+02:05:45.000 --> 02:06:15.000
+Ya se ve nuestro mensaje, pero si se dan cuenta así, sí, sí, también 7. No sé si hay, perdón, perdón, perdón, es que ya está, y, bueno, este la sí está bien que ya llegábamos a esta parte de aquí ahora ya nos arrojó el primer mensaje de que ups encontramos inconsistencias y esto es cuando nuestras nuestros Inputs están vacíos, pero sucede algo muy interesante.
+
+02:06:21.000 --> 02:06:28.000
+Ya vieron que se agregó un nuevo elemento. Y si le doy Click de nuevo se va a agregar un nuevo elemento.
+
+02:06:28.000 --> 02:06:55.000
+¿qué sucede al estar haciendo? Appen lo que estoy haciendo es si nos damos cuenta en crear un nuevo P en agregarle un nuevo mensaje, en seleccionar mensajes y en agregarlo, sale y eso es o sea la lógica, de esa función es correcta género, b le meto un mensaje, selecciona media de mensajes y lo meto sale que debería estar pasando en realidad solamente se debería de
+
+02:06:55.000 --> 02:07:00.000
+quedar un solo elemento.
+
+02:07:00.000 --> 02:07:07.000
+Vamos. Bien, aquí.
+
+02:07:07.000 --> 02:07:08.000
+Bueno.
+
+02:07:08.000 --> 02:07:11.000
+It's the Gasar. Okay.
+
+02:07:11.000 --> 02:07:17.000
+De alguna manera correcto. Lo que podemos hacer.
+
+02:07:17.000 --> 02:07:28.000
+Cuando nosotros leemos clic limpiar nuestra área de mensajes porque estamos haciendo un segundo intento.
+
+02:07:28.000 --> 02:07:36.000
+Cómo podemos limpiar nuestra red de mensajes?
+
+02:07:36.000 --> 02:07:47.000
+Cómo podríamos limpiar las teledencias?
+
+02:07:47.000 --> 02:07:58.000
+Vamos a hacerlo. Vamos a hacer una función. Se llame limpia mensajes. Sale.
+
+02:07:58.000 --> 02:08:05.000
+Muy bien. ¿Qué vamos a hacer? Primero tenemos que seleccionar el elemento que queremos limpiar. Listo.
+
+02:08:05.000 --> 02:08:22.000
+Ya lo tenemos ahora para limpiar un Hay una manera muy interesante. Si nosotros recordamos que nos podemos agregar a entrar aquí, vamos a traer y vamos a entrar al taller.
+
+02:08:22.000 --> 02:08:36.000
+Tiene una propiedad llamada Iner Html.
+
+02:08:36.000 --> 02:08:37.000
+No, not
+
+02:08:37.000 --> 02:08:47.000
+Si recuerdan el el H, una versión en string del contenido Html del componente o del elemento.
+
+02:08:47.000 --> 02:09:17.000
+Sale por ejemplo, si se dan cuenta en nuestro formulario, tenemos un labal con usuario. Si nosotros no vamos aquí, tenemos un Ford con un Ford user y usuario, el ine era Html es una manera de obtener todo el contenido este de un elemento pero en un formato de string sale eso quiere decir, que si yo hiciera algo así como área iner
+
+02:09:23.000 --> 02:09:29.000
+Html y le pusiera Strick ¿Qué va a pasar con el contenido del elemento?
+
+02:09:29.000 --> 02:09:39.000
+Sacó. ¿Qué pasó? ¿Qué va a pasar con el línea Html del evento?
+
+02:09:39.000 --> 02:09:47.000
+Va a ser reemplazado por una cadena vacía, es decir, el contenido del elemento va a desaparecer.
+
+02:09:47.000 --> 02:09:49.000
+Vamos. Bien, acá.
+
+02:09:49.000 --> 02:09:58.000
+I stole a list of you's in the Larry. The.
+
+02:09:58.000 --> 02:10:05.000
+Por por una cadena vacía exacto. Sale, Vamos. Bien. Acá.
+
+02:10:05.000 --> 02:10:06.000
+2.
+
+02:10:06.000 --> 02:10:18.000
+La otra. Creo que sí se puede. Miren a ver si puedo hacerlo. Haría mensajes, punto. Lo que.
+
+02:10:18.000 --> 02:10:21.000
+Un tu.
+
+02:10:21.000 --> 02:10:25.000
+Y a.
+
+02:10:25.000 --> 02:10:30.000
+Lo que puedo.
+
+02:10:30.000 --> 02:10:43.000
+Me y en y a momento.
+
+02:10:43.000 --> 02:10:54.000
+Y a.
+
+02:10:54.000 --> 02:11:11.000
+Dicen que tenemos el método. Y hay, si no me llevo, Youk Remov volaría a todos y dimos: Child debería de recibir un parámetro.
+
+02:11:11.000 --> 02:11:12.000
+Kasolovo.
+
+02:11:12.000 --> 02:11:35.000
+Pero a algo por el estilo estamos seleccionando texto y para qué es el 2. Va a ser eliminado en el.
+
+02:11:35.000 --> 02:11:42.000
+Sí, hay 2. Hay 2 maneras de hacer.
+
+02:11:42.000 --> 02:11:49.000
+Puedo hacerlo de varias maneras, por lo que viene aquí. Por ejemplo, lo que puedo hacer es.
+
+02:11:49.000 --> 02:12:13.000
+Seleccionar todo el contenido de mi nodo con Children. Recordemos que children que tiene tienen todos los nodos que viven dentro del nuevo seleccionador y recorrerlo. No sé si es ah ajá.
+
+02:12:13.000 --> 02:12:16.000
+Para suerte.
+
+02:12:16.000 --> 02:12:24.000
+Vamos a hacerlo primero por este iner Html. Y hacemos la segunda parte para poder hacerlo con el limón, para que puedan ver también cómo funcionan.
+
+02:12:24.000 --> 02:12:30.000
+Entonces aquí, por ejemplo, voy a recargar.
+
+02:12:30.000 --> 02:12:39.000
+Y voy a darle aquí 1, 2 y 3. Ah, pero se me olvidó limpia, mensajes.
+
+02:12:39.000 --> 02:12:45.000
+Bueno, sería aquí.
+
+02:12:45.000 --> 02:12:54.000
+Limpia, mensajes. Entonces, si nos damos cuenta, ahorita cada vez que yo le doy clic va a estar aventando el mensaje mensaje.
+
+02:12:54.000 --> 02:13:01.000
+Si yo las una vez, si yo le doy clic, ya nos están viendo. Está agregando nuevos elementos.
+
+02:13:01.000 --> 02:13:29.000
+Nosotros está quedando. Uno. Ya vieron que lo que está pasando está limpiando y está agregando un nuevo elemento si es necesario. Solo que la velocidad es son milisegundos por eso es imperceptible, pero si se dan cuenta por ejemplo, voy a comentar limpiar. Mensajes clic clic clic clic clic clic clic se están agregando mensajes vamos Bien, acá.
+
+02:13:29.000 --> 02:13:30.000
+Steve.
+
+02:13:30.000 --> 02:13:43.000
+Pero si yo voy a cama, les comento limpio. Mensajes, guardo y el encargo. Cuando yo le dé click al login se ve un 1 1.
+
+02:13:43.000 --> 02:13:50.000
+¿Por qué? Porque lo que está pasando es cuando yo le decli voy a limpiar medio de mensajes y dependiendo qué suceda es.
+
+02:13:50.000 --> 02:13:57.000
+Si voy a encontrar un nuevo mensaje o simplemente no lo voy a vamos bien, acá.
+
+02:13:57.000 --> 02:13:58.000
+See.
+
+02:13:58.000 --> 02:13:59.000
+Muy bien. Esa es una manera. Es con el dinero. Html, colocándolo en este espacio.
+
+02:13:59.000 --> 02:14:08.000
+Sale, vamos a hacerlo de la otra manera.
+
+02:14:08.000 --> 02:14:17.000
+Ya vimos que con N Html, colocando en un string vacío, yo puedo limpiar por completo todo el contenido de un modo, pero vamos a hacerlo de la otra manera.
+
+02:14:17.000 --> 02:14:26.000
+Si se dan cuenta en la documentación, en el pequeño artículo que encontré, acá nos mencionaba que hay 2 maneras, o hay 2 métodos.
+
+02:14:26.000 --> 02:14:54.000
+Un rimmuk y un ritmo chil rimouth Lo que va a hacer es dependiendo del modo que lo invoque lo va a eliminar. Es decir, por ejemplo, si yo seleccionara mi primer mensaje, de todos mis demás mensajes y le doy remous a ese mensaje, ese mensaje, desaparece sale la otra es que yo invoqué al padre.
+
+02:14:54.000 --> 02:15:00.000
+Al no 2 padres, y le dije que quiero eliminar un nodo en específico. Esa es la otra.
+
+02:15:00.000 --> 02:15:04.000
+Uno lo va a invocar el nodo hijo y el otro lo va a invocar en modo.
+
+02:15:04.000 --> 02:15:12.000
+Padre, vamos a hacerlo de las 2 maneras. Vale, vamos. Bien, aquí.
+
+02:15:12.000 --> 02:15:13.000
+See.
+
+02:15:13.000 --> 02:15:23.000
+Muy bien, vamos a hacerlo primero por el nodo hijo. Entonces vamos a hacer eliminar por nodo hijo.
+
+02:15:23.000 --> 02:15:27.000
+Vale. Entonces, ¿qué tenemos que hacer? Primero, seleccionar al nodo Padre: Ya lo tenemos aquí.
+
+02:15:27.000 --> 02:15:42.000
+Les haría mensajes, Luego es los hijos. ¿Cómo lo podemos hacer? Área, mensajes, punto que.
+
+02:15:42.000 --> 02:15:43.000
+Children.
+
+02:15:43.000 --> 02:15:56.000
+Children, ¿Correcto? Eso que nos va a qué tipo de datos va a rezar.
+
+02:15:56.000 --> 02:15:57.000
+I.
+
+02:15:57.000 --> 02:16:04.000
+A Html colegio, que no es ni un arreglo, ni tampoco tiene tantos métodos actuales.
+
+02:16:04.000 --> 02:16:05.000
+Pero si podemos recorrerlo porque, al fin y al cabo, que es, pues es una lista, es un arreglo, como lo podemos recorrer.
+
+02:16:05.000 --> 02:16:22.000
+¿Qué estructura de datos me permite recorrer un arreglo.
+
+02:16:22.000 --> 02:16:52.000
+Un forro. El Ford, como es considerable, va a ir 1 por 1, o puedo manejarlo como yo quiera, pero puede ir 1 por 1 y recorriendo el arreglo elemento por elemento, sale vamos a escribir un Ford la palabra reservada por y el método 3.
+
+02:16:52.000 --> 02:17:06.000
+Voy a llamar los parámetros o 3 áreas especificas del for cuales cuáles son.
+
+02:17:06.000 --> 02:17:09.000
+Sí, estoy hablando. Ah, ella ah, me espantajo. Pensé que se había ido del Internet. Entonces, ¿qué es lo que pide?
+
+02:17:09.000 --> 02:17:10.000
+Primero, un Ford.
+
+02:17:10.000 --> 02:17:18.000
+See. Is easy. No.
+
+02:17:18.000 --> 02:17:21.000
+This is the position.
+
+02:17:21.000 --> 02:17:22.000
+Those parameters.
+
+02:17:22.000 --> 02:17:30.000
+No y qué parámetros me piden por.
+
+02:17:30.000 --> 02:17:36.000
+Una variable. ¿Con qué trabajar?
+
+02:17:36.000 --> 02:17:46.000
+Qué más Son 3 cosas que me piden forma.
+
+02:17:46.000 --> 02:17:47.000
+Is the
+
+02:17:47.000 --> 02:17:53.000
+El Ok, Ese es el último parámetro. Muy bien. Nos falta una.
+
+02:17:53.000 --> 02:17:59.000
+Local.
+
+02:17:59.000 --> 02:18:00.000
+A.
+
+02:18:00.000 --> 02:18:05.000
+You, as, as,
+
+02:18:05.000 --> 02:18:19.000
+Y la condición. Una condición para ejecutarse, es decir, es mientras mi condición se cumpla, voy a pasar a la siguiente integración.
+
+02:18:19.000 --> 02:18:35.000
+Sale, entonces necesito una condición y de trabajo, por así decir, por ejemplo, qué propiedad de un arreglo me dice cuántos elementos tiene.
+
+02:18:35.000 --> 02:18:37.000
+Nice at least.
+
+02:18:37.000 --> 02:18:39.000
+Linked.
+
+02:18:39.000 --> 02:18:40.000
+Link.
+
+02:18:40.000 --> 02:18:45.000
+No. Lindes ¿Correcto? Correcta. Entonces, por ejemplo, hijos, punto lento.
+
+02:18:45.000 --> 02:18:57.000
+Entonces, con todo esto que están viendo, ¿cuál sería la condición que me permita continuar de la posición 0 hasta que termine mi arreglo.
+
+02:18:57.000 --> 02:19:19.000
+Qué hijos? Más bien. Perdón, Sí, Bueno, en este caso, ¿qué condición tiene que haber para que de la posición 0 en cada interacción me permita trabajar y llegar hasta el último elemento de mi herramienta.
+
+02:19:19.000 --> 02:19:20.000
+. Not
+
+02:19:20.000 --> 02:19:29.000
+Recordando que, ah, ¿cómo quedaría?
+
+02:19:29.000 --> 02:19:34.000
+Okay.
+
+02:19:34.000 --> 02:19:35.000
+Oh, well, I don't know I husband the length.
+
+02:19:35.000 --> 02:19:49.000
+Recuerden y ajá, Ah, Ok. Ahora, aquí hay que tener. Sí, Sí, pero que quedaría. Sí, ahí vamos a ver qué pasa.
+
+02:19:49.000 --> 02:19:53.000
+Estoy aquí, dudoso entre Lek, menos 1, Entonces ahorita. Ya logramos concretar un Ford sale para empezar el 0 y debe de acabar.
+
+02:19:53.000 --> 02:20:23.000
+Mientras sí sea menor, igual al hijos, punto, es decir, a la cantidad de elementos que tengan y va en cada iteración, le va a ir sumando una unitaria para que él y valga ahora en la primera 0 la segunda 1 en la tercera 2 y así se va a ir vale Ahora ya que tenemos el ford ya podemos ir controlando lo que queremos hacer con el arreglo por ejemplo, recuerden que remou es ese
+
+02:20:33.000 --> 02:20:39.000
+método que se invoca por el mismo nodo. Entonces, ¿cómo voy a obtener 1 de los nuevos que vive en el Html Colection de hijos?
+
+02:20:39.000 --> 02:20:46.000
+¿Cuál sería la sintaxis?
+
+02:20:46.000 --> 02:20:58.000
+Quiero tener el primer elemento.
+
+02:20:58.000 --> 02:21:25.000
+Hijos en la posición 0 y con eso obtendría que el primer elemento de la lista derecho, también de corcho, Pero como este Ford va a ir literando por cada 1 de los elementos o por cada 1 de los nodos, por eso mejor Ocupo y iba a representar que en la primera integración 0, en la segunda integración 1 en la tercera y tensión 2 y así me voy a ir consecutivamente vamos bien
+
+02:21:25.000 --> 02:21:27.000
+aquí.
+
+02:21:27.000 --> 02:21:28.000
+Okay.
+
+02:21:28.000 --> 02:21:29.000
+Thank you.
+
+02:21:29.000 --> 02:21:54.000
+Sí. Esto quiere decir que por lo menos hijo en la posición y representa un nodo hijo vale entonces como tal, ahora sí puedo invocar a un método llamado Rimouth lo que va a estar haciendo este método remov es y eliminando nodo por nodo sale no que me boca mismo nudo que se elimina.
+
+02:21:54.000 --> 02:21:59.000
+Sale, vamos bien, aquí.
+
+02:21:59.000 --> 02:22:00.000
+Zoom.
+
+02:22:00.000 --> 02:22:01.000
+Good.
+
+02:22:01.000 --> 02:22:12.000
+Muy bien. Entonces para poder? Bueno, sí funciones, está limpiar mensajes Ahí está. Entonces con el primer, con el primer punto.
+
+02:22:12.000 --> 02:22:20.000
+Lo hicimos de un jalón vital, agarramos a nuestro elemento y le quitamos todo el contenido.
+
+02:22:20.000 --> 02:22:25.000
+Aquí lo que va a pasar es que va a ir eliminando con su punto loco, no 2, por nodo.
+
+02:22:25.000 --> 02:22:36.000
+Sale. Que es más, nos vamos a ir imprimiendo para ir viendo que nos revés ya está ahí. Está.
+
+02:22:36.000 --> 02:22:41.000
+Entonces regresamos.
+
+02:22:41.000 --> 02:22:55.000
+Ni siquiera no hay, y por.
+
+02:22:55.000 --> 02:22:58.000
+Efectivamente, creo que no existe.
+
+02:22:58.000 --> 02:23:07.000
+Así porque no.
+
+02:23:07.000 --> 02:23:27.000
+Y en.
+
+02:23:27.000 --> 02:23:32.000
+A un.
+
+02:23:32.000 --> 02:23:37.000
+No, Pero tuvo que abrir el.
+
+02:23:37.000 --> 02:23:56.000
+Sí, sí, ya ya vi cuál es ese problema y tiene sentido que sucede en la primera iteración, o sea, cuando yo le dé clic. Por primera vez, pregunta, pregunta, existen mensajes en el área de mensajes.
+
+02:23:56.000 --> 02:23:57.000
+No.
+
+02:23:57.000 --> 02:24:04.000
+No, entonces de alguna manera siempre nos va a mandar el error porque chino no está vacío.
+
+02:24:04.000 --> 02:24:10.000
+Hmm.
+
+02:24:10.000 --> 02:24:11.000
+Okay.
+
+02:24:11.000 --> 02:24:15.000
+Qué debe de ser? Deberíamos de hacerlo solo cuando exista por lo menos un un modo sale un mensaje, ¿Cómo podemos hacerlo?
+
+02:24:15.000 --> 02:24:18.000
+If no.
+
+02:24:18.000 --> 02:24:27.000
+Ok, Sí. Y muy bien, ¿Cómo quedaría nuestro ritmo.
+
+02:24:27.000 --> 02:24:31.000
+I mean.
+
+02:24:31.000 --> 02:24:32.000
+If
+
+02:24:32.000 --> 02:24:43.000
+Mmm: No. ¿Qué variable tienen los children del área? Mensajes?
+
+02:24:43.000 --> 02:24:44.000
+Ah, no.
+
+02:24:44.000 --> 02:24:51.000
+Happened child. Okay. yeah, yeah.
+
+02:24:51.000 --> 02:24:54.000
+See.
+
+02:24:54.000 --> 02:24:55.000
+Hey, Eagles.
+
+02:24:55.000 --> 02:25:06.000
+No. A qué variable tienen los chiles? Sí, claro. Hijos. Ahí está hijos. Ahora, como hijos. Es una Html Colection tiene una propiedad que me permite saber cuántos elementos tiene cuál es.
+
+02:25:06.000 --> 02:25:10.000
+Okay. And the length. Okay.
+
+02:25:10.000 --> 02:25:20.000
+Punto lento es correcto. Ahora, ¿qué tenemos que hacer, Pues validar que por lo menos tenga un hijo, entonces pues mayor acero?
+
+02:25:20.000 --> 02:25:27.000
+Solo en ese momento se va a ejecutar nuestra lógica.
+
+02:25:27.000 --> 02:25:31.000
+Vale, vamos. Bien, acá.
+
+02:25:31.000 --> 02:25:32.000
+Same.
+
+02:25:32.000 --> 02:25:35.000
+Que si.
+
+02:25:35.000 --> 02:25:54.000
+Ahí está. Ahora, sí, debería de aparecer por lo menos un nodo para que funcione. Ahí está. Tal vez no nos marcó error si yo le doy, vemos login debería de marcarme que primero eliminó a este pez y si se Dan cuenta este pe de aquí no es este peda acá.
+
+02:25:54.000 --> 02:26:10.000
+Sale. No es este, porque si no en automático, por ejemplo, si yo abro este sur y le doy clic a Target, vean qué elemento me selecciona el formulario, pero este p de aquí no es el mismo de acá porque.
+
+02:26:10.000 --> 02:26:11.000
+Okay.
+
+02:26:11.000 --> 02:26:19.000
+Cuando es correcto exacto. Este pulso, Este pe de aquí fue el cónsul. De ahí, y yo lo eliminé.
+
+02:26:19.000 --> 02:26:30.000
+Es decir, primero se limpiaron los mensajes y se agregó un nuevo mensaje. Es decir, este Ribot funcionó.
+
+02:26:30.000 --> 02:26:47.000
+Este P de aquí ya no existe. En el documento existe otro que es completamente distinto. Sale nuestra lógica funciona, Remouf: Lo que me va a permitir es dependiendo nudo que lo evoque es ese mismo modo que se va a eliminar sale remove funciona.
+
+02:26:47.000 --> 02:26:54.000
+A partir del nodo que lo invoque. Vamos bien, acá.
+
+02:26:54.000 --> 02:27:07.000
+See.
+
+02:27:07.000 --> 02:27:08.000
+You.
+
+02:27:08.000 --> 02:27:12.000
+Sí. Muy bien, entonces ya tenemos eliminarlo por no dormir. Ahora vamos a hacerlo. Se cometa por el al final.
+
+02:27:12.000 --> 02:27:13.000
+Yep.
+
+02:27:13.000 --> 02:27:17.000
+Es conocer todas las maneras en que se puede hacer. No dopable, pero sí me gusta más, sin derecho.
+
+02:27:17.000 --> 02:27:25.000
+También es más que ahora, no en todos, no en todas partes se pueda ocupar en el Html.
+
+02:27:25.000 --> 02:27:45.000
+¿Por qué? Porque ¿qué tal si de repente 1 y Lechetml te va a barrer?
+
+02:27:45.000 --> 02:27:47.000
+Hmm.
+
+02:27:47.000 --> 02:27:48.000
+Let me tell you.
+
+02:27:48.000 --> 02:27:59.000
+Con todo, es el problema. Si tú quieres limpiar todo el contenido, pues igual en el Html es la mejor opción. Pero si tú quieres eliminar elementos muy específicos, no te va a servir ese es el único problema cuando un problema sería como la única el único detalle exacto sale muy bien ahora vamos a hacerlo por el modo padre este código de acá, porque en realidad es casi lo mismo.
+
+02:27:59.000 --> 02:28:06.000
+Primero que nada, debe de existir por lo menos un nodo para que pueda funcionar nuestra lógica, o sea, que el ir ya lo comprende.
+
+02:28:06.000 --> 02:28:21.000
+Ahora remous child es la otra manera de poder eliminar nodos que a lo que veíamos aquí, en el cual Raimundo Child me dice oye yo voy a eliminar 1 todo el que tú me pases pero Removechy no va a ser invocado.
+
+02:28:21.000 --> 02:28:40.000
+Por el nodo y va a ser invocado por el modo padre. Eso quiere decir que, en lugar de que tengamos esta línea de aquí, ¿cómo quedaría la línea.
+
+02:28:40.000 --> 02:28:54.000
+Para poder eliminar el nodo. El mensaje. ¿Quién es el haya mensajes?
+
+02:28:54.000 --> 02:29:11.000
+Este es listo, un punto sí y removechail. Me pide el nodo adivinar dónde vive el nodo, eliminar.
+
+02:29:11.000 --> 02:29:13.000
+The NICOS.
+
+02:29:13.000 --> 02:29:17.000
+Y hijos en la.
+
+02:29:17.000 --> 02:29:40.000
+Con esto yo, cuando yo, cuando invoque, o cuando exista un mensaje por menos 1 Lo que va a hacer es en la siguiente: en el siguiente súmite el formulario primero va a averiguar qué hay más hay un mensaje si hay un mensaje vale lo borró y de ahí continúo con mi lógica o sea que sucede aquí aquí yo invoco a limpio mensajes en limpia
+
+02:29:40.000 --> 02:29:49.000
+mensajes. Si existen más mensajes, voy a ejecutar. De lo contrario no pasa nada y yo continúo con mi lógica.
+
+02:29:49.000 --> 02:30:03.000
+Sale. Vamos a ver si esto sigue funcionando el recordemos en la primera vez. No existen mensajes, por ende, no va a pasar nada y cosas.
+
+02:30:03.000 --> 02:30:14.000
+Pero si existe, Ah, sí, no existe. Ahora sí existe de cargamos. Y ahora sí, la primera vez no pasó nada.
+
+02:30:14.000 --> 02:30:42.000
+Y aquí está nuestro Pe, este pez de aquí es porque si efectivamente no colocamos sala, si yo vuelvo a darle click listo y se dan cuenta este P, de aquí ya no es el mismo peda acá porque porque este pen que existía previamente fue eliminado se imprimió y al final se agregó un nuevo mensaje porque porque efectivamente, nuestras cajas de texto están vacías vamos Bien.
+
+02:30:42.000 --> 02:30:45.000
+acá.
+
+02:30:45.000 --> 02:30:47.000
+Same.
+
+02:30:47.000 --> 02:30:58.000
+Muy bien, Entonces ya tenemos 3 maneras de poder. De alguna manera limpiar el contenido: comida. Html Pero el Html le va a volar todo el contenido.
+
+02:30:58.000 --> 02:31:02.000
+Lo puedo hacer con el método rítmico, pero recordemos el método, ritmo.
+
+02:31:02.000 --> 02:31:18.000
+Me dice que solamente lo puede invocar el modo que necesita ser eliminado, y el otro es correo electrónico. Pero el ritmo lo tiene equivocar. El padre sale vamos bien acá.
+
+02:31:18.000 --> 02:31:19.000
+You
+
+02:31:19.000 --> 02:31:44.000
+Muy bien, vamos a hacer ahora? Sí, la lógica para el óvulo ya. Para terminar, para terminar, por lo menos ahorita esta primera parte, entonces eliminamos estos cursos que ya no sirven y ahora sí a lo que yo le tengo que pasar 2 datos el usuario y la contraseña y recuerden en el orden en que se declaran es como tengo que enviarlos eso quiere decir que mi primer
+
+02:31:44.000 --> 02:31:50.000
+parámetro. ¿Quién debe de ser?
+
+02:31:50.000 --> 02:31:56.000
+You.
+
+02:31:56.000 --> 02:31:59.000
+Hmm.
+
+02:31:59.000 --> 02:32:00.000
+Thank you.
+
+02:32:00.000 --> 02:32:07.000
+User data porque recuerden, ahí vive. Y luego, pues pasada. Ok, vive el dato. Vale, nos vamos hacia la parte de funciones donde ahora sí.
+
+02:32:07.000 --> 02:32:19.000
+Cuando yo envié user data, se va a recibir en donde en el parámetro user y lo que yo envié como paz data, se va a recibir como paz, vamos bien, acá.
+
+02:32:19.000 --> 02:32:20.000
+See.
+
+02:32:20.000 --> 02:32:21.000
+Muy bien. Ahora, como base de datos, es una arreglo, yo puedo ocupar los métodos funcionales.
+
+02:32:21.000 --> 02:32:37.000
+Cuáles son los métodos funcionales que vimos la clase? Bueno, en la sesión de programación funcional vimos 3 métodos funcionales.
+
+02:32:37.000 --> 02:32:38.000
+Cuáles son.
+
+02:32:38.000 --> 02:32:41.000
+Map filter in reduce.
+
+02:32:41.000 --> 02:32:46.000
+Correcto, ¿Qué hace más?
+
+02:32:46.000 --> 02:32:53.000
+May the, It is Mario.
+
+02:32:53.000 --> 02:32:55.000
+No jamás te va a devolver el mismo reloj, te va a devolver.
+
+02:32:55.000 --> 02:33:01.000
+Yeah.
+
+02:33:01.000 --> 02:33:09.000
+De depende depende de la función de tomar, pero efectivamente regresa Un nuevo récord con el mismo número de elementos, pero no quizá con el mismo contenido.
+
+02:33:09.000 --> 02:33:11.000
+And, and.
+
+02:33:11.000 --> 02:33:17.000
+Sale. Y posiblemente filter. ¿Qué es Filter?
+
+02:33:17.000 --> 02:33:23.000
+But.
+
+02:33:23.000 --> 02:33:32.000
+Es correcto. Puede venir posiblemente mismo en 1 de elementos. Puede venir menos elementos, o puede llegar pasivo. ¿Por qué?
+
+02:33:32.000 --> 02:33:40.000
+Porque ahí se dije por la condición, la condición de Filter y Re Dios que hace.
+
+02:33:40.000 --> 02:33:45.000
+Is Elimino? No, no, no, no.
+
+02:33:45.000 --> 02:33:54.000
+Puedes ir reduce. Recuerden, re Dios me pueda regresar cualquier tipo de dato válido con javascript.
+
+02:33:54.000 --> 02:34:15.000
+Esa es la primera Y la segunda, Pues sí, bueno, es la principal característica. Puede ser cualquier tipo de dato, Recorre un arreglo, sí, pero al final ya puedo recibir puedo rezar números por regresar stings por regresar a un objeto cuando estoy manipulando un arreglo o regresar un arreglo si yo quiero poder estar trufols lo que yo necesito vale en este caso, en el
+
+02:34:15.000 --> 02:34:27.000
+cual queremos saber si existe un usuario con mi usuario y mi contraseña. ¿Qué método podemos ocupar?
+
+02:34:27.000 --> 02:34:28.000
+Filter.
+
+02:34:28.000 --> 02:34:35.000
+Clter correcto. Entonces, al momento de invocar el cristal, lo mismo voy a guardar lo que me regrese.
+
+02:34:35.000 --> 02:34:47.000
+Vamos a ponerle aquí filtrado, Luego, Filter es invocado por un arreglo. ¿Cómo se llama nuestro arreglo?
+
+02:34:47.000 --> 02:34:48.000
+And.
+
+02:34:48.000 --> 02:35:11.000
+Usuarios. Entonces, usuarios, Finter Filter me va a pedir un parámetro, que es una función anónima, y esa función anónima me va a permitir trabajar con 3 parámetros el valor actual la posición y el arreglo.
+
+02:35:11.000 --> 02:35:16.000
+Vamos. Bien.
+
+02:35:16.000 --> 02:35:17.000
+Good.
+
+02:35:17.000 --> 02:35:27.000
+Sí. Recuerden, los 3 son opcionales, pero por lo regular se pueden ocupar sin ningún problema En este caso yo nada más.
+
+02:35:27.000 --> 02:35:39.000
+Voy a necesitar current porque ocurren. ¿Qué va a tener? Va a tener cada objeto dependiendo la iteración en la que estemos trabajando sale entonces.
+
+02:35:39.000 --> 02:36:09.000
+Filter me pueda regresar en una sola línea por la capacidad propia de las armas funciones. El resultado que yo necesito siempre se debe de regresar algo en Marte, Twitter o en Review siempre se debe regresar a ahora cómo quedaría nuestra condición para saber si los datos son correctos, cómo quedaría Recuerden, que tenemos estos estas propiedades por usuario.
+
+02:36:10.000 --> 02:36:24.000
+Cómo quedaría. Déjeme Robarme 1 para para poder tenerlo.
+
+02:36:24.000 --> 02:36:28.000
+Cómo quedaría?
+
+02:36:28.000 --> 02:36:34.000
+Qué tenemos que buscar?
+
+02:36:34.000 --> 02:36:36.000
+Hey Lafario. Yeah, does work.
+
+02:36:36.000 --> 02:36:45.000
+Cómo quedaría en esa condición? Sabemos que los 2 valores deben de cumplirse. Entonces es un y es un an.
+
+02:36:45.000 --> 02:36:54.000
+Ya tenemos la primera parte de esa condición. ¿Qué más?
+
+02:36:54.000 --> 02:36:57.000
+User.
+
+02:36:57.000 --> 02:36:59.000
+Y.
+
+02:36:59.000 --> 02:37:11.000
+Good morning. You, You.
+
+02:37:11.000 --> 02:37:19.000
+Let's see.
+
+02:37:19.000 --> 02:37:29.000
+Qué variable dentro de nuestra función tiene acceso al objeto de cada interesante.
+
+02:37:29.000 --> 02:37:35.000
+And.
+
+02:37:35.000 --> 02:37:36.000
+No, no, no, I think we've got the
+
+02:37:36.000 --> 02:37:41.000
+Qué variable? Ok, No, Ya usuarios. No estamos trabajando.
+
+02:37:41.000 --> 02:37:45.000
+Yes.
+
+02:37:45.000 --> 02:37:48.000
+¿Cuál sería?
+
+02:37:48.000 --> 02:37:53.000
+I'm going No.
+
+02:37:53.000 --> 02:38:05.000
+Ocurren curren. Tiene acceso a cada objeto del arreglo por posición en la posición 0. Voy a tener en curro en esto en alteración 1.
+
+02:38:05.000 --> 02:38:27.000
+Voy a tener, correcto cuando ocurre mantener esto, en la alteración, 2 curren. Va a tener, eso sale. Es decir, curren, tendría estas propiedades en cada interacción, los valores van a ir cambiando y queda claro pero las propiedades, va a tener entonces cómo quedaría youse es igual a current, así?
+
+02:38:27.000 --> 02:38:37.000
+¿Qué falta?
+
+02:38:37.000 --> 02:38:38.000
+Hmm.
+
+02:38:38.000 --> 02:38:47.000
+Punto. Ahora, ¿cómo quedaría la contraseña?
+
+02:38:47.000 --> 02:38:48.000
+Mmm.
+
+02:38:48.000 --> 02:38:59.000
+It does work. Hello, back. You only wanna go rent.
+
+02:38:59.000 --> 02:39:00.000
+Okay.
+
+02:39:00.000 --> 02:39:05.000
+Porque aquí se llama, sale listo. Ahí está. Entonces ya con eso. Nosotros tenemos una condición.
+
+02:39:05.000 --> 02:39:12.000
+Cuántos usuarios me tendría que regresar, pues, dependiendo lo que llegue, user y lo que llegue en paso.
+
+02:39:12.000 --> 02:39:20.000
+Entonces, como tal, yo ya puedo regresar, pues pues recordemos que las funciones tiene la capacidad de regresar.
+
+02:39:20.000 --> 02:39:27.000
+Valores? ¿Con qué? Con el operador Freeton por regresar lo que yo quiera, arreglos objetos.
+
+02:39:27.000 --> 02:39:46.000
+Bullianos, strings, números, lo que yo necesite, lo puedo regresar en este caso.
+
+02:39:46.000 --> 02:39:47.000
+Tim.
+
+02:39:47.000 --> 02:39:48.000
+Lo único que tiene que hacer lo aquí, que es saber si existen usuarios. ¿Correcto? Sí, Muy bien, aquí hay 2.
+
+02:39:48.000 --> 02:39:58.000
+Podemos hacerlo directamente del blogging o lo podemos hacer directamente en la parte del evento. ¿Dónde quieren resolverlo?
+
+02:39:58.000 --> 02:40:04.000
+En el logil o en el evento.
+
+02:40:04.000 --> 02:40:06.000
+And they log in.
+
+02:40:06.000 --> 02:40:17.000
+Entonces, ¿cómo sé que realmente existe un usuario?
+
+02:40:17.000 --> 02:40:24.000
+Hmm.
+
+02:40:24.000 --> 02:40:25.000
+Hmm.
+
+02:40:25.000 --> 02:40:31.000
+Sí filtrado. El punto lento. No sé le correcto. Es diferente hacerlo.
+
+02:40:31.000 --> 02:40:38.000
+Ahí está. Yo puedo hacer un ritón.
+
+02:40:38.000 --> 02:40:42.000
+De lo.
+
+02:40:42.000 --> 02:40:47.000
+Un retón.
+
+02:40:47.000 --> 02:41:00.000
+Por salen visto. Entonces sabemos que Login va a guardar, o sea, porque al fin y al cabo me lo está regresando.
+
+02:41:00.000 --> 02:41:14.000
+Es correcto. Me está regresando un truco. Me está realizando un force. Por ende, cuando una función regresa a un dato, yo lo tengo que guardar en una variable.
+
+02:41:14.000 --> 02:41:18.000
+Exitoso, por ejemplo.
+
+02:41:18.000 --> 02:41:44.000
+Listo, entonces lo que regrese El Login va a vivir que en exitoso. Y entonces ahora sí. Y aquí puedo hacer unir sí exitoso, porque exitoso es un goleano, pues ya es necesario, decir igual igual igual a otro porque ya tiene un triunfo entonces si.
+
+02:41:44.000 --> 02:42:01.000
+Yo ya podría mandar, por ejemplo, el mensaje y podría ocupar. Por. Bueno, bueno, bueno, vamos a mandar. Sí, vamos a como.
+
+02:42:01.000 --> 02:42:11.000
+Bueno, aquí nada más. Vamos a hacer un aleroide porque ya también. Y loging exitoso.
+
+02:42:11.000 --> 02:42:22.000
+Listo. Ahí está, sale y de lo contrario.
+
+02:42:22.000 --> 02:42:35.000
+Revisa tus prevenciones Ahí está. Entonces vamos a ver si sí se cumplió. Vamos a ocupar pedito y 1, 2, 3, 4, 5, 3.
+
+02:42:35.000 --> 02:42:47.000
+Entonces listo, pedrito. Uno, 2, 3, 4, 5, 6. Eso que decir que cuando yo era el logui, locking exitoso también.
+
+02:42:47.000 --> 02:43:17.000
+Pero ¿qué pasa si yo me equivoco y le pongo nada más. Cinco caracteres. Mi contraseña está mal, revisa tus credenciales, salen los de alguna manera se cumplió la funcionalidad porque aquí el mail yo ya podría estar ocupando los datos que me regreso mi función de log y para poder hacer más lógica dudas en esta última parte.
+
+02:43:17.000 --> 02:43:25.000
+No?
+
+02:43:25.000 --> 02:43:33.000
+Va Bueno, vamos a dejarla hasta Acá la siguiente clase. Vamos a terminar en nuestro ejercicio. Sale. Ya vimos mucho de la parte.
+
+02:43:33.000 --> 02:44:03.000
+Recordamos un poco de estructuras de control de variables, un poco de Html. Vimos un poco de arreglos Nos vamos a centrar la siguiente clase en los temas, por ejemplo, de programación, orientada que es 1 de los temas que creo que está más pesadito y Bueno, todavía vamos a recordar lo que estuvimos viendo esta clase sale voy a subir esta primera parte del récord y para la siguiente clase vamos a
+
+02:44:04.000 --> 02:44:10.000
+ocupar este mismo reto. Irene.
+
+02:44:10.000 --> 02:44:15.000
+Hola.
+
+02:44:15.000 --> 02:44:16.000
+Sí.
+
+02:44:16.000 --> 02:44:20.000
+Hola. Pedro Oye, nada más este de nuestro examen final de nuestro a la rúbrica que nos mandó.
+
+02:44:20.000 --> 02:44:21.000
+Ajá.
+
+02:44:21.000 --> 02:44:27.000
+Es un la que tenemos en el en la plata, en Bedu. Es otra.
+
+02:44:27.000 --> 02:44:34.000
+Ah, Qué interesante!
+
+02:44:34.000 --> 02:44:35.000
+Ok.
+
+02:44:35.000 --> 02:44:39.000
+Y nos manda un enlace para la que nos mandó Janet que no abre. Entonces, ahí como que tengo dudas con respecto a cómo ser nuestro proyecto final.
+
+02:44:39.000 --> 02:44:54.000
+Ok Dame, para revisar con ella. Esa parte de la rúbrica vale, y ya ya les comento.
+
+02:44:54.000 --> 02:44:55.000
+¿Correcto?
+
+02:44:55.000 --> 02:45:00.000
+Y para para para saber cómo. Porque para después estamos ya iniciar el proyecto y saber cómo hacia hacia dónde lo debemos de guiar.
+
+02:45:00.000 --> 02:45:06.000
+No, Sí.
+
+02:45:06.000 --> 02:45:07.000
+Vamos a?
+
+02:45:07.000 --> 02:45:10.000
+Sí, No te preocupes hoy. Bueno, no, no sé si voy a contestar todavía, pero si no este, a que les conecta nada más pueden hacer un favor, digo, ¿por qué medio les mandó esa rubrica?
+
+02:45:10.000 --> 02:45:13.000
+No hay.
+
+02:45:13.000 --> 02:45:14.000
+Sí ahorita si quieres la porque justo la estaba leyendo para como que ir siguiendo.
+
+02:45:14.000 --> 02:45:21.000
+¡Ah, por Ajá!
+
+02:45:21.000 --> 02:45:30.000
+La vuelvo a tela, le envío.
+
+02:45:30.000 --> 02:45:31.000
+Que no, no. Entonces, con una reacción?
+
+02:45:31.000 --> 02:45:43.000
+¿Sí? Por bueno, nomás. Si puedes pincharlo algo así, sería súper porque yo no vi una noche a y no la veo a ver mi amigo compartir el arte de pantalla.
+
+02:45:43.000 --> 02:45:48.000
+A le envió el 3 de agosto.
+
+02:45:48.000 --> 02:45:49.000
+Sí, Sí, Sí, Sí.
+
+02:45:49.000 --> 02:45:55.000
+A su y es y no.
+
+02:45:55.000 --> 02:46:01.000
+Y 19 cuándo mencionaste. Dos, 2, 6, 2 julio.
+
+02:46:01.000 --> 02:46:05.000
+3. De ahí es esta.
+
+02:46:05.000 --> 02:46:10.000
+2, 3, lo que.
+
+02:46:10.000 --> 02:46:16.000
+Y si le das click en la porque te manda ahí A.
+
+02:46:16.000 --> 02:46:17.000
+La abres y te.
+
+02:46:17.000 --> 02:46:21.000
+Ah, ya.
+
+02:46:21.000 --> 02:46:24.000
+Te dice que te manda en realidad. Es decir, le das en mi caso, no lo habré.
+
+02:46:24.000 --> 02:46:39.000
+Ajá. Cómo sí a ver es que va ligado a como tal. El contenido.
+
+02:46:39.000 --> 02:46:44.000
+No, no.
+
+02:46:44.000 --> 02:46:45.000
+Pero no, Pero ahí está ahí. Se queda algo.
+
+02:46:45.000 --> 02:47:00.000
+No digamos bueno a un curso en específico, digo, es el mismo, sería lo mismo, nada más que ahí está como ligado a a Caramba, ay, ay, a ver lo que podemos hacer, digo, eso sí, está sencillo y el.
+
+02:47:00.000 --> 02:47:16.000
+Te aplican tresonización del código Déjame revisar con ella. Vale documentación, calidad de diseño, ciencia, profesionalidad, vale.
+
+02:47:16.000 --> 02:47:17.000
+Ok, Sí.
+
+02:47:17.000 --> 02:47:25.000
+Ok, Sí, déjame revisarlo con ella. ¿Y si hay que corregir? Bueno, ya que les manden la rica correcta, sale porque sí sí específico, más esta parte, los links, o sea de qué en qué parte debe de estar comunicado vale sí sí.
+
+02:47:25.000 --> 02:47:42.000
+Manual, ¿sí? ¿Y si para nosotros también. Tener bueno yo en lo personal, saber hacia dónde guiar, pues nuestra nuestro proyecto.
+
+02:47:42.000 --> 02:47:43.000
+Ok.
+
+02:47:43.000 --> 02:48:02.000
+Sí, pues principalmente lo que estaría este bueno sería como que continuaran con el cuerpo anterior del módulo pasado que de alguna manera hubiera un poquito más de estructura, porque estuvimos viendo ya Script, entonces por ejemplo, pues si se necesita por ejemplo, la selección, de elementos pues que hay una selección, de elementos lo que deba hacer con funciones pues que estén en funciones la parte del récord pues cuando que llegue una secuencia, de
+
+02:48:02.000 --> 02:48:20.000
+comics. Este principalmente esa parte, la parte, por ejemplo, de la calidad del diseño interfaz, bueno, pues que sea fluida, que de alguna manera pueda encontrarlo todo a nivel de visuales.
+
+02:48:20.000 --> 02:48:35.000
+Y.
+
+02:48:35.000 --> 02:48:36.000
+Ok.
+
+02:48:36.000 --> 02:48:44.000
+Pero y recuerdo que tu proyecto anterior, bueno proyecto al modo pasado, fue tu sitio. ¿No? Entonces, por ejemplo, ahora que no sé, también ya tienes más páginas cuando se doy click navego y tal vez sigo viendo la misma estructura, pero con diferente contenido si responsiva, que pueda tener acceso a todos los elementos salen como ese tipo de cospero si déjenme déjeme checarlo con ella para que se
+
+02:48:44.000 --> 02:48:45.000
+Va: Perfecto.
+
+02:48:45.000 --> 02:48:50.000
+revisen por lo menos esta parte, que es donde está. Como la duda va. Y bueno, pues que sí que sí concuerde con lo que esté con lo que se vio vale.
+
+02:48:50.000 --> 02:48:51.000
+Va que va. Gracias.
+
+02:48:51.000 --> 02:49:05.000
+Va Perfecto. Sí. Y este vale algo más Bueno, algo más grupo. De lo contrario, este, pues, bueno, ya se pueden ir a descansar.
+
+02:49:05.000 --> 02:49:14.000
+Recuerden que la siguiente clase todavía vamos a estar viendo. Repaso y vamos a estar viendo. Vamos a repasar todo lo que vimos todavía en esta clase más.
+
+02:49:14.000 --> 02:49:29.000
+La parte de programación entre objetos y pues para que de alguna manera ahí es donde más me voy a centrar, porque sé que es un tema un poco más pesado, sale grupo.
+
+02:49:29.000 --> 02:49:30.000
+That's the husband, I'm okay.
+
+02:49:30.000 --> 02:49:34.000
+Pues muchísimas gracias. Descansan y escuchamos el martes. Vale buena noche.
+
+02:49:34.000 --> 02:49:35.000
+Buenas noches.
+
+02:49:35.000 --> 02:49:46.000
+La noche.
+

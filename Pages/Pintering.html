@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Drawer</title> <!-- Título de la página web que se muestra en la pestaña del navegador. -->
+    <meta charset="UTF-8"> <!-- Especifica la codificación de caracteres utilizada (UTF-8 en este caso). -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Configuración de la vista en dispositivos móviles y otros ajustes de la página. -->
+    <!-- Enlaces a hojas de estilo CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../styles/styles_drawer.css"> <!-- Enlace a una hoja de estilos personalizada. -->
+    <!-- Enlaces a scripts JS -->
+    <script src="../Scripts/Drawer.js" defer></script> <!-- Enlace a un script JavaScript con la opción "defer" que retrasa la ejecución del script hasta que se cargue el documento HTML completamente. -->
+</head>
+<body class="bg-body-secondary" style="margin-left: 250px;">
+    <!-- Cabecera con el nombre de la tienda -->
+    <header>
+        <div class="wrapper">
+            <svg>
+                <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+                    The Lord of the Freaky <!-- Texto que se muestra en la cabecera de la página. -->
+                </text>
+            </svg>
+        </div>
+    </header>
+    <div class="sidebar">
+        <ul>
+            <!-- Lista de elementos de la barra lateral -->
+            <li>
+                <a href="./index.html">
+                    <span class="icon"><i class="fa-solid"></i></span>
+                    <span class="text">Inicio</span> <!-- Enlace "Inicio" en la barra lateral. -->
+                </a>
+            </li>
+            <li>
+                <a href="./Franquicia.html">
+                    <span class="icon" style="background-image: url('../iconos/espada-de-luz.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Franquicias</span> <!-- Enlace "Franquicias" en la barra lateral. -->
+                </a>
+            </li>
+            <li>
+                <a href="./Anime.html">
+                    <span class="icon" style="background-image: url('../iconos/anime.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Anime</span> <!-- Enlace "Anime" en la barra lateral. -->
+                </a>
+            </li>
+            <li>
+                <a href="./Videojuegos.html">
+                    <span class="icon" style="background-image: url('../iconos/palanca-de-mando.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Videojuegos</span> <!-- Enlace "Videojuegos" en la barra lateral. -->
+                </a>
+            </li>
+            <li>
+                <a href="./Pintering.html">
+                    <span class="icon" style="background-image: url('../iconos/cepillo-de-pintura.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Pintering</span> <!-- Enlace "Pintering"en la barra lateral. -->
+                </a>
+            </li>
+            <li>
+                <a style="color:antiquewhite"> Color: </a> <!-- Etiqueta de texto para el selector de color. -->
+                <input type="color" id="colorPicker" style="width:100%" value="#000000"> <!-- Selector de color con un valor inicial de negro. -->
+            </li>
+            <li>
+                <a href="./LogIn.html">
+                    <span class="icon" style="background-image: url('../iconos/boton-cuadrado.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Log in</span> <!-- Enlace "Log in" en la barra lateral. -->
+                </a>
+            </li>
+        </ul>
+    </div>
+    <main>
+        <div class="canvas">
+            <!-- El área de dibujo representada por un elemento canvas con un tamaño predefinido. -->
+            <canvas id="drawingCanvas" width="800" height="400"></canvas>
+        </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Log in</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Enlaces a hojas de estilo CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../styles/styles_LogIn.css">
+    <!-- Enlaces a scripts JS -->
+    <script src="../Scripts/BD.js"></script>
+    <script src="../Scripts/LogIn.js" defer></script>
+</head>
+<body class="bg-body-secondary" style="margin-left: 250px;">
+    <!-- Cabecera con el nombre de la tienda -->
+    <header>
+        <div class="wrapper">
+            <svg>
+                <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+                    The Lord of the Freaky
+                </text>
+            </svg>
+        </div>
+    </header>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <ul>
+            <!-- Lista de elementos de la barra lateral -->
+            <li>
+                <a href="./index.html">
+                    <span class="icon"><i class="fa-solid"></i></span>
+                    <span class="text">Inicio</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Franquicia.html">
+                    <span class="icon" style="background-image: url('../iconos/espada-de-luz.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Franquicias</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Anime.html">
+                    <span class="icon" style="background-image: url('../iconos/anime.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Anime</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Videojuegos.html">
+                    <span class="icon" style="background-image: url('../iconos/palanca-de-mando.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Videojuegos</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Pintering.html">
+                    <span class="icon" style="background-image: url('../iconos/cepillo-de-pintura.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Pintering</span>
+                </a>
+            </li>
+            <li>
+                <a href="./LogIn.html">
+                    <span class="icon" style="background-image: url('../iconos/boton-cuadrado.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Log in</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!-- Contenido principal (formulario de inicio de sesión) -->
+    <main style="margin-left: 250px;">
+        <div class="wrapper-main">
+            <div>
+                <form action="#" class="sub-form" id="loginForm">
+                    <h2>Log In</h2>
+                    <!-- Campo de entrada de correo electrónico -->
+                    <div class="input-box">
+                        <input type="email" required name="emailInput">
+                        <label for="email">Email</label>
+                    </div>
+                    <!-- Campo de entrada de contraseña -->
+                    <div class="input-box">
+                        <input type="password" required name="passwordInput">
+                        <label>Password</label>
+                    </div>
+                    <!-- Botón de inicio de sesión -->
+                    <div class="btn">
+                        <button type="submit" class="btn" value="Login">Login</button>
+                    </div>
+                    <!-- Respuesta del sistema (mensaje de éxito o error) -->
+                    <div id="RespuestaSistema"></div>
+                    <!-- Enlace para restablecer contraseña -->
+                    <div>
+                        <a href="#">¿Olvidaste tu contraseña?</a>
+                    </div>
+                    <!-- Sección inferior del formulario (registro de cuenta) -->
+                    <div class="bottom-form">
+                        <div class="no-account">¿No tienes una cuenta?</div>
+                        <a href="#" class="signup">Regístrate</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

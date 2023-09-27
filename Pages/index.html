@@ -4,38 +4,93 @@
     <title>The lord of the Freaky</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Enlaces a las hojas de estilo de Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- Enlace a tu hoja de estilos personalizada -->
     <link rel="stylesheet" href="../styles/styles.css">
 </head>
 <body class="bg-body-secondary">
     <!-- Cabecera con el nombre de la tienda -->
     <header>
-        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-            <a><img src="logo.png" with="40px" height="60px" href="./Index.html"/></a>
-            <!--<a class="navbar-brand" href="#">Gammer by Hobby</a>-->
-            <a class="navbar-brand" href="#">Inicio </a>
-            <a class="navbar-brand" href="./Franquicia.html">Franquicias</a>
-            <a class="navbar-brand" href="./Anime.html">Anime</a>
-            <a class="navbar-brand" href="./Videojuegos.html">Videojuegos</a>
-
-        </nav>
+        <div class="wrapper">
+            <svg>
+                <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+                    The Lord of the Freaky
+                </text>
+            </svg>
+        </div>
     </header>
 
-    <!-- Seccion principal con una lista de juegos -->
-    <main>
-        <div class="mt-5" id="carrusel_box">    
-            <div class="container_carrusel">
-                <div class="carousel">
-                    <div class="carousel__face"><span>Anime</span></div>
-                    <div class="carousel__face"><span>Franquicias</span></div>
-                    <div class="carousel__face"><span>Videojuegos</span></div>
+    <!-- Sección principal con una lista de juegos -->
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <ul>
+            <!-- Lista de elementos de la barra lateral -->
+            <li>
+                <a href="./index.html">
+                    <span class="icon"><i class="fa-solid"></i></span>
+                    <span class="text">Inicio</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Franquicia.html">
+                    <span class="icon" style="background-image: url('../iconos/espada-de-luz.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Franquicias</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Anime.html">
+                    <span class="icon" style="background-image: url('../iconos/anime.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Anime</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Videojuegos.html">
+                    <span class="icon" style="background-image: url('../iconos/palanca-de-mando.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Videojuegos</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Pintering.html">
+                    <span class="icon" style="background-image: url('../iconos/cepillo-de-pintura.png');"><i class="fa-solid"></i></span>
+                    <span class="text">Pintering</span>
+                </a>
+            </li>
+            <li>
+                <a href="./LogIn.html" style>
+                    <span class="icon" style="background-image: url('../iconos/boton-cuadrado.png');"></span>
+                    <span class="text">Log in</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!-- Fin de la barra lateral -->
+
+    <!-- Contenido principal -->
+<main style="margin-left:10px;">
+    <div class="content-container" style="margin-left: 250px;">
+        <div style="margin-left: 250px;">
+            <div class="w3-container w3-teal">
+                <div class="mt-5" id="carrusel_box">    
+                    <div class="container_carrusel">
+                        <!-- Carrousel de contenido -->
+                        <div class="carousel">
+                            <div class="carousel__face"><span>Anime</span></div>
+                            <div class="carousel__face"><span>Franquicias</span></div>
+                            <div class="carousel__face"><span>Videojuegos</span></div>
+                            <div class="carousel__face"><span>Pintering</span></div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </main>
+    </div>
+</main>
+    <!-- Fin del contenido principal -->
 
-    <!-- Pie de pagina -->
-    <footer class="footer mt-5 py-3 bg-dark">
+    <!-- Pie de página -->
+    <footer class="footer mt-5 py-3 bg-dark" style="margin-left: 250px;">
         <div class="container">
             <span class="text-muted">The lord of the Freaky. Todos los derechos reservados.</span>
         </div>

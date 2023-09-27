@@ -5,6 +5,118 @@
     background-color: #808080;
 }
 
+/*Inicio css para sidebar*/
+svg {
+	font-family: "Russo One", sans-serif;
+	width: 100%; height: 100%;
+}
+svg text {
+	animation: stroke 5s infinite alternate;
+	stroke-width: 2;
+	stroke: #505110;
+	font-size: 76px;
+}
+
+.icon {
+    background-size: 24px; 
+    width: 24px; 
+    height: 24px; 
+    display: flex;
+    align-items: center; 
+    padding-left: 10px; 
+}
+
+.sidebar{
+    position:fixed;
+    top:0;
+    left:0;
+    height: 100%;
+    width:250px;
+    z-index: 1;
+    background: #333;
+    overflow-x:10px;
+    transition: 0.75s ease;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.sidebar:hover{
+    width:250px;
+    transition: 0.6s ease;
+}
+
+.sidebar ul {
+    position:relative;
+    height: 97vh;
+}
+.sidebar ul li {
+    list-style: none;
+    margin:5px 0;
+}
+
+.sidebar ul li:hover {
+    background: #C70039 ;
+    transition:0.3s ease;
+}
+.sidebar ul li a{
+    position: relative;
+    display: flex;
+    white-space: nowrap;
+    text-decoration: none;
+    color:#ffffff;
+}
+.sidebar ul li .logo{
+    margin-bottom: 80px;
+}
+.sidebar ul li .logo .text{
+    font-size: 18px;
+    font-weight: 600;
+}
+.sidebar ul li:last-child{
+    position:absolute;
+    bottom: 0;
+    width:100%;
+}
+.sidebar ul li a.icon{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 75px;
+    height: 60px;
+    font-size: 22px;
+}
+.sidebar ul li a .text{
+    position: relative;
+    display:flex;
+    align-items: center;
+    height: 60px;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    font-weight: 500;
+}
+.wrapper {background-color: #000000}
+
+#iconos{
+    position:relative;
+    width: max-content;
+}
+
+
+/*Final sidebar*/
+footer{
+    margin-left: 250px;
+}
+
+main{
+    margin-left:250px;
+}
+
+span {
+    margin: auto;
+    font-size: 2rem;
+    color:ghostwhite;
+}
 .navbar-brand {
     color: #ffffff;
 }
@@ -31,4 +143,16 @@ img {
 #logo{
     width:100px;
     height:60px;
+}
+@keyframes stroke {
+	0%   {
+		fill: rgba(238,247,210,0); stroke: rgba(80,81,16,1);
+		stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2;
+	}
+	70%  {fill: rgba(238,247,210,0); stroke: rgba(80,81,16,1); }
+	80%  {fill: rgba(238,247,210,0); stroke: rgba(80,81,16,1); stroke-width: 3; }
+	100% {
+		fill: rgba(238,247,210,1); stroke: rgba(80,81,16,0);
+		stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0;
+	}
 }
